@@ -7,7 +7,7 @@ LWA-213:
   snap2_used: true
   snap2_group: 5
   snap2_serial: 13
-  snap2_chassis: 2
+  snap2_chassis: 20
   snap2_location: 11
   snap2_hostname: snap01.sas.pvt
   snap2_mac: ""
