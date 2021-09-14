@@ -1,7 +1,7 @@
 LWA-213:
   antname: LWA-213
   antnumber: 213
-  latititude: 37.23960116
+  latitude: 37.23960116
   longitude: -118.2823262
   elevation: 1183.59
   snap2_used: true
@@ -27,7 +27,7 @@ LWA-213:
 LWA-214:
   antname: LWA-214
   antnumber: 214
-  latititude: 37.23955711
+  latitude: 37.23955711
   longitude: -118.2822493
   elevation: 1183.6
   snap2_used: true
@@ -53,7 +53,7 @@ LWA-214:
 LWA-215:
   antname: LWA-215
   antnumber: 215
-  latititude: 37.23955073
+  latitude: 37.23955073
   longitude: -118.2821142
   elevation: 1183.68
   snap2_used: true
@@ -79,7 +79,7 @@ LWA-215:
 LWA-217:
   antname: LWA-217
   antnumber: 217
-  latititude: 37.23942604
+  latitude: 37.23942604
   longitude: -118.2822257
   elevation: 1183.42
   snap2_used: true
@@ -105,7 +105,7 @@ LWA-217:
 LWA-218:
   antname: LWA-218
   antnumber: 218
-  latititude: 37.23939858
+  latitude: 37.23939858
   longitude: -118.2821063
   elevation: 1183.53
   snap2_used: true
@@ -131,7 +131,7 @@ LWA-218:
 LWA-219:
   antname: LWA-219
   antnumber: 219
-  latititude: 37.23938801
+  latitude: 37.23938801
   longitude: -118.2823084
   elevation: 1183.46
   snap2_used: true
@@ -157,7 +157,7 @@ LWA-219:
 LWA-223:
   antname: LWA-223
   antnumber: 223
-  latititude: 37.23907598
+  latitude: 37.23907598
   longitude: -118.2823567
   elevation: 1183.41
   snap2_used: true
@@ -183,7 +183,7 @@ LWA-223:
 LWA-224:
   antname: LWA-224
   antnumber: 224
-  latititude: 37.2390032
+  latitude: 37.2390032
   longitude: -118.2821861
   elevation: 1183.46
   snap2_used: true
@@ -209,7 +209,7 @@ LWA-224:
 LWA-225:
   antname: LWA-225
   antnumber: 225
-  latititude: 37.24045907
+  latitude: 37.24045907
   longitude: -118.2825002
   elevation: 1184.12
   snap2_used: true
@@ -235,7 +235,7 @@ LWA-225:
 LWA-226:
   antname: LWA-226
   antnumber: 226
-  latititude: 37.2403059
+  latitude: 37.2403059
   longitude: -118.2825619
   elevation: 1184.39
   snap2_used: true
@@ -261,7 +261,7 @@ LWA-226:
 LWA-227:
   antname: LWA-227
   antnumber: 227
-  latititude: 37.24029315
+  latitude: 37.24029315
   longitude: -118.2823904
   elevation: 1184.22
   snap2_used: true
@@ -287,7 +287,7 @@ LWA-227:
 LWA-228:
   antname: LWA-228
   antnumber: 228
-  latititude: 37.2401794
+  latitude: 37.2401794
   longitude: -118.2825484
   elevation: 1184.29
   snap2_used: true
@@ -313,7 +313,7 @@ LWA-228:
 LWA-229:
   antname: LWA-229
   antnumber: 229
-  latititude: 37.2401277
+  latitude: 37.2401277
   longitude: -118.2825039
   elevation: 1184.17
   snap2_used: true
@@ -339,7 +339,7 @@ LWA-229:
 LWA-230:
   antname: LWA-230
   antnumber: 230
-  latititude: 37.24010694
+  latitude: 37.24010694
   longitude: -118.2826228
   elevation: 1184.2
   snap2_used: false
@@ -365,7 +365,7 @@ LWA-230:
 LWA-231:
   antname: LWA-231
   antnumber: 231
-  latititude: 37.24003848
+  latitude: 37.24003848
   longitude: -118.2826771
   elevation: 1184.1
   snap2_used: true
@@ -391,7 +391,7 @@ LWA-231:
 LWA-232:
   antname: LWA-232
   antnumber: 232
-  latititude: 37.23995681
+  latitude: 37.23995681
   longitude: -118.2826447
   elevation: 1184.14
   snap2_used: true
@@ -417,7 +417,7 @@ LWA-232:
 LWA-233:
   antname: LWA-233
   antnumber: 233
-  latititude: 37.23992216
+  latitude: 37.23992216
   longitude: -118.2823902
   elevation: 1183.95
   snap2_used: true
@@ -443,7 +443,7 @@ LWA-233:
 LWA-234:
   antname: LWA-234
   antnumber: 234
-  latititude: 37.23984736
+  latitude: 37.23984736
   longitude: -118.2825971
   elevation: 1184.01
   snap2_used: false
@@ -469,7 +469,7 @@ LWA-234:
 LWA-235:
   antname: LWA-235
   antnumber: 235
-  latititude: 37.23982881
+  latitude: 37.23982881
   longitude: -118.2824288
   elevation: 1183.76
   snap2_used: true
@@ -495,7 +495,7 @@ LWA-235:
 LWA-236:
   antname: LWA-236
   antnumber: 236
-  latititude: 37.2397921
+  latitude: 37.2397921
   longitude: -118.2825315
   elevation: 1183.83
   snap2_used: true
@@ -521,7 +521,7 @@ LWA-236:
 LWA-237:
   antname: LWA-237
   antnumber: 237
-  latititude: 37.23975704
+  latitude: 37.23975704
   longitude: -118.2827063
   elevation: 1184.17
   snap2_used: true
@@ -547,7 +547,7 @@ LWA-237:
 LWA-238:
   antname: LWA-238
   antnumber: 238
-  latititude: 37.2397385
+  latitude: 37.2397385
   longitude: -118.2823789
   elevation: 1183.71
   snap2_used: true
@@ -573,7 +573,7 @@ LWA-238:
 LWA-239:
   antname: LWA-239
   antnumber: 239
-  latititude: 37.23968976
+  latitude: 37.23968976
   longitude: -118.2824013
   elevation: 1183.7
   snap2_used: true
@@ -599,7 +599,7 @@ LWA-239:
 LWA-240:
   antname: LWA-240
   antnumber: 240
-  latititude: 37.23963868
+  latitude: 37.23963868
   longitude: -118.2827402
   elevation: 1184.13
   snap2_used: true
@@ -625,7 +625,7 @@ LWA-240:
 LWA-241:
   antname: LWA-241
   antnumber: 241
-  latititude: 37.23962331
+  latitude: 37.23962331
   longitude: -118.2824782
   elevation: 1183.75
   snap2_used: true
@@ -651,7 +651,7 @@ LWA-241:
 LWA-242:
   antname: LWA-242
   antnumber: 242
-  latititude: 37.23960332
+  latitude: 37.23960332
   longitude: -118.2825766
   elevation: 1183.89
   snap2_used: true
@@ -677,7 +677,7 @@ LWA-242:
 LWA-243:
   antname: LWA-243
   antnumber: 243
-  latititude: 37.23957759
+  latitude: 37.23957759
   longitude: -118.2826224
   elevation: 1184.02
   snap2_used: false
@@ -703,7 +703,7 @@ LWA-243:
 LWA-244:
   antname: LWA-244
   antnumber: 244
-  latititude: 37.23952126
+  latitude: 37.23952126
   longitude: -118.2824382
   elevation: 1183.64
   snap2_used: true
@@ -729,7 +729,7 @@ LWA-244:
 LWA-245:
   antname: LWA-245
   antnumber: 245
-  latititude: 37.23949967
+  latitude: 37.23949967
   longitude: -118.282776
   elevation: 1184.07
   snap2_used: true
@@ -755,7 +755,7 @@ LWA-245:
 LWA-246:
   antname: LWA-246
   antnumber: 246
-  latititude: 37.23948833
+  latitude: 37.23948833
   longitude: -118.2826576
   elevation: 1183.92
   snap2_used: true
@@ -781,7 +781,7 @@ LWA-246:
 LWA-247:
   antname: LWA-247
   antnumber: 247
-  latititude: 37.2393934
+  latitude: 37.2393934
   longitude: -118.2825843
   elevation: 1183.7
   snap2_used: false
@@ -807,7 +807,7 @@ LWA-247:
 LWA-248:
   antname: LWA-248
   antnumber: 248
-  latititude: 37.23939119
+  latitude: 37.23939119
   longitude: -118.282514
   elevation: 1183.57
   snap2_used: true
