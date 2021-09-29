@@ -1,20 +1,20 @@
 LWA-213:
   antname: LWA-213
   antnumber: 213
-  latitude: 37.23960116
+  latitude: 37.23960116000001
   longitude: -118.2823262
   elevation: 1183.59
   snap2_used: true
   snap2_group: 5
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 11
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 0
-  pola_digitizer_channel: 2
-  polb_digitizer_channel: 3
-  arx_location: 43
+  pola_digitizer_channel: 0
+  polb_digitizer_channel: 1
+  arx_location: 40
   arx_serial: -1
   arx_address: 21
   pola_arx_channel: 3
@@ -27,20 +27,20 @@ LWA-213:
 LWA-214:
   antname: LWA-214
   antnumber: 214
-  latitude: 37.23955711
+  latitude: 37.23955711000001
   longitude: -118.2822493
   elevation: 1183.6
   snap2_used: true
   snap2_group: 5
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 11
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 0
-  pola_digitizer_channel: 4
-  polb_digitizer_channel: 5
-  arx_location: 43
+  pola_digitizer_channel: 6
+  polb_digitizer_channel: 7
+  arx_location: 40
   arx_serial: -1
   arx_address: 21
   pola_arx_channel: 5
@@ -58,15 +58,15 @@ LWA-215:
   elevation: 1183.68
   snap2_used: true
   snap2_group: 5
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 11
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 0
-  pola_digitizer_channel: 6
-  polb_digitizer_channel: 7
-  arx_location: 43
+  pola_digitizer_channel: 4
+  polb_digitizer_channel: 5
+  arx_location: 40
   arx_serial: -1
   arx_address: 21
   pola_arx_channel: 7
@@ -84,15 +84,15 @@ LWA-217:
   elevation: 1183.42
   snap2_used: true
   snap2_group: 5
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 11
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 0
-  pola_digitizer_channel: 8
-  polb_digitizer_channel: 9
-  arx_location: 43
+  pola_digitizer_channel: 10
+  polb_digitizer_channel: 11
+  arx_location: 40
   arx_serial: -1
   arx_address: 21
   pola_arx_channel: 9
@@ -110,15 +110,15 @@ LWA-218:
   elevation: 1183.53
   snap2_used: true
   snap2_group: 5
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 11
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 0
-  pola_digitizer_channel: 10
-  polb_digitizer_channel: 11
-  arx_location: 43
+  pola_digitizer_channel: 8
+  polb_digitizer_channel: 9
+  arx_location: 40
   arx_serial: -1
   arx_address: 21
   pola_arx_channel: 11
@@ -131,20 +131,20 @@ LWA-218:
 LWA-219:
   antname: LWA-219
   antnumber: 219
-  latitude: 37.23938801
+  latitude: 37.23938801000001
   longitude: -118.2823084
   elevation: 1183.46
   snap2_used: true
   snap2_group: 5
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 11
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 0
-  pola_digitizer_channel: 12
-  polb_digitizer_channel: 13
-  arx_location: 43
+  pola_digitizer_channel: 14
+  polb_digitizer_channel: 15
+  arx_location: 40
   arx_serial: -1
   arx_address: 21
   pola_arx_channel: 13
@@ -157,20 +157,20 @@ LWA-219:
 LWA-223:
   antname: LWA-223
   antnumber: 223
-  latitude: 37.23907598
+  latitude: 37.23907598000001
   longitude: -118.2823567
   elevation: 1183.41
   snap2_used: true
   snap2_group: 5
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 11
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 0
-  pola_digitizer_channel: 14
-  polb_digitizer_channel: 15
-  arx_location: 43
+  pola_digitizer_channel: 12
+  polb_digitizer_channel: 13
+  arx_location: 40
   arx_serial: -1
   arx_address: 21
   pola_arx_channel: 15
@@ -183,28 +183,28 @@ LWA-223:
 LWA-224:
   antname: LWA-224
   antnumber: 224
-  latitude: 37.2390032
+  latitude: 37.23900320000002
   longitude: -118.2821861
   elevation: 1183.46
   snap2_used: true
   snap2_group: 6
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 8
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 0
-  pola_digitizer_channel: 0
-  polb_digitizer_channel: 1
-  arx_location: 43
+  pola_digitizer_channel: 2
+  polb_digitizer_channel: 3
+  arx_location: 40
   arx_serial: -1
   arx_address: 21
   pola_arx_channel: 1
   polb_arx_channel: 2
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 270
+  polb_fee: 338
   notes: ""
 LWA-225:
   antname: LWA-225
@@ -214,49 +214,49 @@ LWA-225:
   elevation: 1184.12
   snap2_used: true
   snap2_group: 3
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 9
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 0
-  pola_digitizer_channel: 16
-  polb_digitizer_channel: 17
-  arx_location: 40
+  pola_digitizer_channel: 18
+  polb_digitizer_channel: 19
+  arx_location: 41
   arx_serial: -1
   arx_address: 17
   pola_arx_channel: 1
   polb_arx_channel: 2
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 216
+  polb_fee: 1353
   notes: ""
 LWA-226:
   antname: LWA-226
   antnumber: 226
-  latitude: 37.2403059
+  latitude: 37.24030590000001
   longitude: -118.2825619
   elevation: 1184.39
   snap2_used: true
-  snap2_group: 4
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_group: 3
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 10
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 0
-  pola_digitizer_channel: 18
-  polb_digitizer_channel: 19
-  arx_location: 40
+  pola_digitizer_channel: 16
+  polb_digitizer_channel: 17
+  arx_location: 41
   arx_serial: -1
   arx_address: 17
   pola_arx_channel: 3
   polb_arx_channel: 4
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 213
+  polb_fee: 1349
   notes: ""
 LWA-227:
   antname: LWA-227
@@ -266,153 +266,153 @@ LWA-227:
   elevation: 1184.22
   snap2_used: true
   snap2_group: 3
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 9
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 0
-  pola_digitizer_channel: 20
-  polb_digitizer_channel: 21
-  arx_location: 40
+  pola_digitizer_channel: 22
+  polb_digitizer_channel: 23
+  arx_location: 41
   arx_serial: -1
   arx_address: 17
   pola_arx_channel: 5
   polb_arx_channel: 6
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 267
+  polb_fee: 360
   notes: ""
 LWA-228:
   antname: LWA-228
   antnumber: 228
-  latitude: 37.2401794
+  latitude: 37.24017939999997
   longitude: -118.2825484
   elevation: 1184.29
   snap2_used: true
   snap2_group: 4
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 10
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 0
-  pola_digitizer_channel: 22
-  polb_digitizer_channel: 23
-  arx_location: 40
+  pola_digitizer_channel: 20
+  polb_digitizer_channel: 21
+  arx_location: 41
   arx_serial: -1
   arx_address: 17
   pola_arx_channel: 7
   polb_arx_channel: 8
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 231
+  polb_fee: 337
   notes: ""
 LWA-229:
   antname: LWA-229
   antnumber: 229
-  latitude: 37.2401277
+  latitude: 37.24012770000002
   longitude: -118.2825039
   elevation: 1184.17
   snap2_used: true
   snap2_group: 4
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 10
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 0
-  pola_digitizer_channel: 24
-  polb_digitizer_channel: 25
-  arx_location: 40
+  pola_digitizer_channel: 26
+  polb_digitizer_channel: 27
+  arx_location: 41
   arx_serial: -1
   arx_address: 17
   pola_arx_channel: 9
   polb_arx_channel: 10
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 229
+  polb_fee: 334
   notes: ""
 LWA-230:
   antname: LWA-230
   antnumber: 230
-  latitude: 37.24010694
+  latitude: 37.24010694000002
   longitude: -118.2826228
   elevation: 1184.2
-  snap2_used: false
-  snap2_group: -1
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_used: true
+  snap2_group: 4
+  snap2_serial: -1
+  snap2_chassis: -1
+  snap2_location: -1
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 0
-  pola_digitizer_channel: 26
-  polb_digitizer_channel: 27
-  arx_location: 40
+  pola_digitizer_channel: 24
+  polb_digitizer_channel: 25
+  arx_location: 41
   arx_serial: -1
   arx_address: 17
   pola_arx_channel: 11
   polb_arx_channel: 12
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 219
+  polb_fee: 388
   notes: ""
 LWA-231:
   antname: LWA-231
   antnumber: 231
-  latitude: 37.24003848
+  latitude: 37.24003848000003
   longitude: -118.2826771
   elevation: 1184.1
   snap2_used: true
   snap2_group: 4
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: sanp01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 10
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 0
-  pola_digitizer_channel: 28
-  polb_digitizer_channel: 29
-  arx_location: 40
+  pola_digitizer_channel: 30
+  polb_digitizer_channel: 31
+  arx_location: 41
   arx_serial: -1
   arx_address: 17
   pola_arx_channel: 13
   polb_arx_channel: 14
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 262
+  polb_fee: 342
   notes: ""
 LWA-232:
   antname: LWA-232
   antnumber: 232
-  latitude: 37.23995681
+  latitude: 37.23995680999999
   longitude: -118.2826447
   elevation: 1184.14
   snap2_used: true
   snap2_group: 4
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 10
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 0
-  pola_digitizer_channel: 30
-  polb_digitizer_channel: 31
-  arx_location: 40
+  pola_digitizer_channel: 28
+  polb_digitizer_channel: 29
+  arx_location: 41
   arx_serial: -1
   arx_address: 17
   pola_arx_channel: 15
   polb_arx_channel: 16
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 185
+  polb_fee: 316
   notes: ""
 LWA-233:
   antname: LWA-233
@@ -422,23 +422,23 @@ LWA-233:
   elevation: 1183.95
   snap2_used: true
   snap2_group: 4
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 10
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 1
-  pola_digitizer_channel: 0
-  polb_digitizer_channel: 1
-  arx_location: 41
+  pola_digitizer_channel: 34
+  polb_digitizer_channel: 35
+  arx_location: 42
   arx_serial: -1
   arx_address: 27
   pola_arx_channel: 1
   polb_arx_channel: 2
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 245
+  polb_fee: 1359
   notes: ""
 LWA-234:
   antname: LWA-234
@@ -446,77 +446,77 @@ LWA-234:
   latitude: 37.23984736
   longitude: -118.2825971
   elevation: 1184.01
-  snap2_used: false
-  snap2_group: -1
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_used: true
+  snap2_group: 4
+  snap2_serial: -1
+  snap2_chassis: -1
+  snap2_location: -1
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 1
-  pola_digitizer_channel: 2
-  polb_digitizer_channel: 3
-  arx_location: 41
+  pola_digitizer_channel: 32
+  polb_digitizer_channel: 33
+  arx_location: 42
   arx_serial: -1
   arx_address: 27
   pola_arx_channel: 3
   polb_arx_channel: 4
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 210
+  polb_fee: 1385
   notes: ""
 LWA-235:
   antname: LWA-235
   antnumber: 235
-  latitude: 37.23982881
+  latitude: 37.23982880999999
   longitude: -118.2824288
   elevation: 1183.76
   snap2_used: true
   snap2_group: 4
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 10
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 1
-  pola_digitizer_channel: 4
-  polb_digitizer_channel: 5
-  arx_location: 41
+  pola_digitizer_channel: 38
+  polb_digitizer_channel: 39
+  arx_location: 42
   arx_serial: -1
   arx_address: 27
   pola_arx_channel: 5
   polb_arx_channel: 6
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 538
+  polb_fee: 1653
   notes: ""
 LWA-236:
   antname: LWA-236
   antnumber: 236
-  latitude: 37.2397921
+  latitude: 37.23979209999999
   longitude: -118.2825315
   elevation: 1183.83
   snap2_used: true
   snap2_group: 4
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 10
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 1
-  pola_digitizer_channel: 6
-  polb_digitizer_channel: 7
-  arx_location: 41
+  pola_digitizer_channel: 36
+  polb_digitizer_channel: 37
+  arx_location: 42
   arx_serial: -1
   arx_address: 27
   pola_arx_channel: 7
   polb_arx_channel: 8
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 1499
+  polb_fee: 1560
   notes: ""
 LWA-237:
   antname: LWA-237
@@ -526,75 +526,75 @@ LWA-237:
   elevation: 1184.17
   snap2_used: true
   snap2_group: 4
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 10
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 1
-  pola_digitizer_channel: 8
-  polb_digitizer_channel: 9
-  arx_location: 41
+  pola_digitizer_channel: 42
+  polb_digitizer_channel: 43
+  arx_location: 42
   arx_serial: -1
   arx_address: 27
   pola_arx_channel: 9
   polb_arx_channel: 10
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 223
+  polb_fee: 1350
   notes: ""
 LWA-238:
   antname: LWA-238
   antnumber: 238
-  latitude: 37.2397385
+  latitude: 37.23973849999999
   longitude: -118.2823789
   elevation: 1183.71
   snap2_used: true
   snap2_group: 4
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 10
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 1
-  pola_digitizer_channel: 10
-  polb_digitizer_channel: 11
-  arx_location: 41
+  pola_digitizer_channel: 40
+  polb_digitizer_channel: 41
+  arx_location: 42
   arx_serial: -1
   arx_address: 27
   pola_arx_channel: 11
   polb_arx_channel: 12
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 193
+  polb_fee: 315
   notes: ""
 LWA-239:
   antname: LWA-239
   antnumber: 239
-  latitude: 37.23968976
+  latitude: 37.23968975999999
   longitude: -118.2824013
   elevation: 1183.7
   snap2_used: true
   snap2_group: 4
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 10
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 1
-  pola_digitizer_channel: 12
-  polb_digitizer_channel: 13
-  arx_location: 41
+  pola_digitizer_channel: 46
+  polb_digitizer_channel: 47
+  arx_location: 42
   arx_serial: -1
   arx_address: 27
   pola_arx_channel: 13
   polb_arx_channel: 14
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 1488
+  polb_fee: 1654
   notes: ""
 LWA-240:
   antname: LWA-240
@@ -604,101 +604,101 @@ LWA-240:
   elevation: 1184.13
   snap2_used: true
   snap2_group: 4
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 10
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 1
-  pola_digitizer_channel: 14
-  polb_digitizer_channel: 15
-  arx_location: 41
+  pola_digitizer_channel: 44
+  polb_digitizer_channel: 45
+  arx_location: 42
   arx_serial: -1
   arx_address: 27
   pola_arx_channel: 15
   polb_arx_channel: 16
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 1484
+  polb_fee: 639
   notes: ""
 LWA-241:
   antname: LWA-241
   antnumber: 241
-  latitude: 37.23962331
+  latitude: 37.23962331000001
   longitude: -118.2824782
   elevation: 1183.75
   snap2_used: true
   snap2_group: 5
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 11
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 1
-  pola_digitizer_channel: 16
-  polb_digitizer_channel: 17
-  arx_location: 44
+  pola_digitizer_channel: 50
+  polb_digitizer_channel: 51
+  arx_location: 43
   arx_serial: -1
   arx_address: 31
   pola_arx_channel: 1
   polb_arx_channel: 2
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 220
+  polb_fee: 1351
   notes: ""
 LWA-242:
   antname: LWA-242
   antnumber: 242
-  latitude: 37.23960332
+  latitude: 37.23960332000004
   longitude: -118.2825766
   elevation: 1183.89
   snap2_used: true
   snap2_group: 5
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 11
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 1
-  pola_digitizer_channel: 18
-  polb_digitizer_channel: 19
-  arx_location: 44
+  pola_digitizer_channel: 48
+  polb_digitizer_channel: 49
+  arx_location: 43
   arx_serial: -1
   arx_address: 31
   pola_arx_channel: 3
   polb_arx_channel: 4
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 258
+  polb_fee: 1366
   notes: ""
 LWA-243:
   antname: LWA-243
   antnumber: 243
-  latitude: 37.23957759
+  latitude: 37.23957759000003
   longitude: -118.2826224
   elevation: 1184.02
-  snap2_used: false
-  snap2_group: -1
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_used: true
+  snap2_group: 5
+  snap2_serial: -1
+  snap2_chassis: -1
+  snap2_location: -1
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 1
-  pola_digitizer_channel: 20
-  polb_digitizer_channel: 21
-  arx_location: 44
+  pola_digitizer_channel: 54
+  polb_digitizer_channel: 55
+  arx_location: 43
   arx_serial: -1
   arx_address: 31
   pola_arx_channel: 5
   polb_arx_channel: 6
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 1181
+  polb_fee: 336
   notes: ""
 LWA-244:
   antname: LWA-244
@@ -708,125 +708,125 @@ LWA-244:
   elevation: 1183.64
   snap2_used: true
   snap2_group: 5
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 11
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 1
-  pola_digitizer_channel: 22
-  polb_digitizer_channel: 23
-  arx_location: 44
+  pola_digitizer_channel: 52
+  polb_digitizer_channel: 53
+  arx_location: 43
   arx_serial: -1
   arx_address: 31
   pola_arx_channel: 7
   polb_arx_channel: 8
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 212
+  polb_fee: 1387
   notes: ""
 LWA-245:
   antname: LWA-245
   antnumber: 245
-  latitude: 37.23949967
+  latitude: 37.23949966999997
   longitude: -118.282776
   elevation: 1184.07
   snap2_used: true
   snap2_group: 5
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 11
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 1
-  pola_digitizer_channel: 24
-  polb_digitizer_channel: 25
-  arx_location: 44
+  pola_digitizer_channel: 58
+  polb_digitizer_channel: 59
+  arx_location: 43
   arx_serial: -1
   arx_address: 31
   pola_arx_channel: 9
   polb_arx_channel: 10
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 204
+  polb_fee: 1346
   notes: ""
 LWA-246:
   antname: LWA-246
   antnumber: 246
-  latitude: 37.23948833
+  latitude: 37.23948832999999
   longitude: -118.2826576
   elevation: 1183.92
   snap2_used: true
   snap2_group: 5
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 11
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 1
-  pola_digitizer_channel: 26
-  polb_digitizer_channel: 27
-  arx_location: 44
+  pola_digitizer_channel: 56
+  polb_digitizer_channel: 57
+  arx_location: 43
   arx_serial: -1
   arx_address: 31
   pola_arx_channel: 11
   polb_arx_channel: 12
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 257
+  polb_fee: 1362
   notes: ""
 LWA-247:
   antname: LWA-247
   antnumber: 247
-  latitude: 37.2393934
+  latitude: 37.23939339999997
   longitude: -118.2825843
   elevation: 1183.7
-  snap2_used: false
-  snap2_group: -1
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_used: true
+  snap2_group: 5
+  snap2_serial: -1
+  snap2_chassis: -1
+  snap2_location: -1
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 1
-  pola_digitizer_channel: 28
-  polb_digitizer_channel: 29
-  arx_location: 44
+  pola_digitizer_channel: 62
+  polb_digitizer_channel: 63
+  arx_location: 43
   arx_serial: -1
   arx_address: 31
   pola_arx_channel: 13
   polb_arx_channel: 14
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 551
+  polb_fee: 1649
   notes: ""
 LWA-248:
   antname: LWA-248
   antnumber: 248
-  latitude: 37.23939119
+  latitude: 37.23939118999999
   longitude: -118.282514
   elevation: 1183.57
   snap2_used: true
   snap2_group: 5
-  snap2_serial: 23
-  snap2_chassis: 1
-  snap2_location: 1
-  snap2_hostname: snap01.sas.pvt
+  snap2_serial: -1
+  snap2_chassis: 2
+  snap2_location: 11
+  snap2_hostname: ""
   snap2_mac: ""
   fmc: 1
-  pola_digitizer_channel: 30
-  polb_digitizer_channel: 31
-  arx_location: 44
+  pola_digitizer_channel: 60
+  polb_digitizer_channel: 61
+  arx_location: 43
   arx_serial: -1
   arx_address: 31
   pola_arx_channel: 15
   polb_arx_channel: 16
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 1480
+  polb_fee: 585
   notes: ""
