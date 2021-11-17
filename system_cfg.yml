@@ -4,8 +4,8 @@ LWA-000:
   latitude: 37.23977727
   longitude: -118.2816667
   elevation: 999999
-  snap2_used: false
-  snap2_group: -1
+  used: false
+  online: false
   snap2_serial: -1
   snap2_chassis: -1
   snap2_location: -1
@@ -30,8 +30,8 @@ LWA-001:
   latitude: 37.24045204
   longitude: -118.2809073
   elevation: 1182.97
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -56,8 +56,8 @@ LWA-002:
   latitude: 37.24036564
   longitude: -118.28094359
   elevation: 1182.73
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -82,8 +82,8 @@ LWA-003:
   latitude: 37.24033358
   longitude: -118.28083053
   elevation: 1183.28
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -108,8 +108,8 @@ LWA-004:
   latitude: 37.24020102
   longitude: -118.28095828
   elevation: 1182.8
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -134,8 +134,8 @@ LWA-005:
   latitude: 37.24016027
   longitude: -118.28072108
   elevation: 1183.14
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -160,8 +160,8 @@ LWA-006:
   latitude: 37.24010766
   longitude: -118.28086951
   elevation: 1182.88
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -186,8 +186,8 @@ LWA-007:
   latitude: 37.24010083
   longitude: -118.28063764
   elevation: 1183.13
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -212,8 +212,8 @@ LWA-008:
   latitude: 37.24005932
   longitude: -118.28086393
   elevation: 1182.76
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -238,8 +238,8 @@ LWA-009:
   latitude: 37.23999323
   longitude: -118.28087696
   elevation: 1182.63
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -264,8 +264,8 @@ LWA-010:
   latitude: 37.23997246
   longitude: -118.2809784
   elevation: 1182.63
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -290,8 +290,8 @@ LWA-011:
   latitude: 37.23995095
   longitude: -118.28075453
   elevation: 1182.69
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -316,8 +316,8 @@ LWA-012:
   latitude: 37.23989205
   longitude: -118.28076279
   elevation: 1182.64
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -342,8 +342,8 @@ LWA-013:
   latitude: 37.23983072
   longitude: -118.28085119
   elevation: 1182.49
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -368,8 +368,8 @@ LWA-014:
   latitude: 37.23982754
   longitude: -118.28098498
   elevation: 1182.75
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -394,8 +394,8 @@ LWA-015:
   latitude: 37.23978272
   longitude: -118.28058556
   elevation: 1182.8
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -420,8 +420,8 @@ LWA-016:
   latitude: 37.23977846
   longitude: -118.28065928
   elevation: 1182.51
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -446,8 +446,8 @@ LWA-017:
   latitude: 37.23972113
   longitude: -118.28083383
   elevation: 1182.52
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -472,8 +472,8 @@ LWA-018:
   latitude: 37.23971259
   longitude: -118.28063016
   elevation: 1182.59
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -498,8 +498,8 @@ LWA-019:
   latitude: 37.23964627
   longitude: -118.28092851
   elevation: 1182.55
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -524,8 +524,8 @@ LWA-020:
   latitude: 37.23962929
   longitude: -118.28078691
   elevation: 1182.64
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -550,8 +550,8 @@ LWA-021:
   latitude: 37.23959372
   longitude: -118.28052287
   elevation: 1183.28
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -576,8 +576,8 @@ LWA-022:
   latitude: 37.23957157
   longitude: -118.2809067
   elevation: 1182.51
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -602,8 +602,8 @@ LWA-023:
   latitude: 37.2395341
   longitude: -118.28069682
   elevation: 1182.84
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -628,8 +628,8 @@ LWA-024:
   latitude: 37.23952049
   longitude: -118.28096304
   elevation: 1182.47
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -654,8 +654,8 @@ LWA-025:
   latitude: 37.23948929
   longitude: -118.28061981
   elevation: 1182.96
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -680,8 +680,8 @@ LWA-026:
   latitude: 37.23946176
   longitude: -118.28088169
   elevation: 1182.39
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -706,8 +706,8 @@ LWA-027:
   latitude: 37.23946109
   longitude: -118.28074661
   elevation: 1182.78
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -732,8 +732,8 @@ LWA-028:
   latitude: 37.23938287
   longitude: -118.28094696
   elevation: 1182.43
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -758,8 +758,8 @@ LWA-029:
   latitude: 37.23933221
   longitude: -118.28056575
   elevation: 1182.41
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -784,8 +784,8 @@ LWA-030:
   latitude: 37.23930735
   longitude: -118.28075585
   elevation: 1182.34
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -810,8 +810,8 @@ LWA-031:
   latitude: 37.23928152
   longitude: -118.28093814
   elevation: 1182.45
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -836,8 +836,8 @@ LWA-032:
   latitude: 37.2391542
   longitude: -118.28090965
   elevation: 1182.81
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -862,8 +862,8 @@ LWA-033:
   latitude: 37.24060946
   longitude: -118.28117415
   elevation: 1182.89
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -888,8 +888,8 @@ LWA-034:
   latitude: 37.24043901
   longitude: -118.2810285
   elevation: 1182.58
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -914,8 +914,8 @@ LWA-035:
   latitude: 37.24037499
   longitude: -118.28117436
   elevation: 1182.65
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -940,8 +940,8 @@ LWA-036:
   latitude: 37.24036176
   longitude: -118.281272
   elevation: 1182.75
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -966,8 +966,8 @@ LWA-037:
   latitude: 37.24028972
   longitude: -118.2811755
   elevation: 1182.71
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -992,8 +992,8 @@ LWA-038:
   latitude: 37.2402905
   longitude: -118.28104146
   elevation: 1182.42
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -1018,8 +1018,8 @@ LWA-039:
   latitude: 37.24028153
   longitude: -118.28126795
   elevation: 1182.76
-  snap2_used: false
-  snap2_group: -1
+  used: false
+  online: false
   snap2_serial: -1
   snap2_chassis: -1
   snap2_location: -1
@@ -1044,8 +1044,8 @@ LWA-040:
   latitude: 37.24023767
   longitude: -118.28113573
   elevation: 1182.67
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -1070,8 +1070,8 @@ LWA-041:
   latitude: 37.24014563
   longitude: -118.28127733
   elevation: 1182.88
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -1096,8 +1096,8 @@ LWA-042:
   latitude: 37.24012608
   longitude: -118.28108224
   elevation: 1182.68
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -1122,8 +1122,8 @@ LWA-043:
   latitude: 37.24000879
   longitude: -118.28118544
   elevation: 1182.93
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -1148,8 +1148,8 @@ LWA-044:
   latitude: 37.23996472
   longitude: -118.28106615
   elevation: 1182.77
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -1174,8 +1174,8 @@ LWA-045:
   latitude: 37.23991949
   longitude: -118.2811983
   elevation: 1182.83
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -1200,8 +1200,8 @@ LWA-046:
   latitude: 37.23989414
   longitude: -118.28103459
   elevation: 1182.7
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -1226,8 +1226,8 @@ LWA-047:
   latitude: 37.23984395
   longitude: -118.28120409
   elevation: 1182.78
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -1252,8 +1252,8 @@ LWA-048:
   latitude: 37.23976097
   longitude: -118.28125213
   elevation: 1182.6
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -1278,8 +1278,8 @@ LWA-049:
   latitude: 37.23973011
   longitude: -118.28117472
   elevation: 1182.58
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -1304,8 +1304,8 @@ LWA-050:
   latitude: 37.23970995
   longitude: -118.28112354
   elevation: 1182.6
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -1330,8 +1330,8 @@ LWA-051:
   latitude: 37.23968118
   longitude: -118.28123929
   elevation: 1182.68
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -1356,8 +1356,8 @@ LWA-052:
   latitude: 37.23967094
   longitude: -118.28115457
   elevation: 1182.58
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -1382,8 +1382,8 @@ LWA-053:
   latitude: 37.23961158
   longitude: -118.28115603
   elevation: 1182.67
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -1408,8 +1408,8 @@ LWA-054:
   latitude: 37.23953876
   longitude: -118.28117316
   elevation: 1182.68
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -1434,8 +1434,8 @@ LWA-055:
   latitude: 37.23946758
   longitude: -118.28112517
   elevation: 1182.58
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -1460,8 +1460,8 @@ LWA-056:
   latitude: 37.23946541
   longitude: -118.28123486
   elevation: 1182.5
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -1486,8 +1486,8 @@ LWA-057:
   latitude: 37.23938938
   longitude: -118.28117452
   elevation: 1182.35
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -1512,8 +1512,8 @@ LWA-058:
   latitude: 37.23934014
   longitude: -118.28106356
   elevation: 1182.29
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -1538,8 +1538,8 @@ LWA-059:
   latitude: 37.23926943
   longitude: -118.28117943
   elevation: 1182.35
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -1564,8 +1564,8 @@ LWA-060:
   latitude: 37.23922219
   longitude: -118.2810893
   elevation: 1182.42
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -1590,8 +1590,8 @@ LWA-061:
   latitude: 37.23919188
   longitude: -118.28125302
   elevation: 1182.49
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -1616,8 +1616,8 @@ LWA-062:
   latitude: 37.2391213
   longitude: -118.28103203
   elevation: 1182.48
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -1642,8 +1642,8 @@ LWA-063:
   latitude: 37.23897771
   longitude: -118.2811979
   elevation: 1182.59
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -1668,8 +1668,8 @@ LWA-064:
   latitude: 37.23897382
   longitude: -118.28114169
   elevation: 1182.58
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -1694,8 +1694,8 @@ LWA-065:
   latitude: 37.2406678
   longitude: -118.28135316
   elevation: 1182.95
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -1720,8 +1720,8 @@ LWA-066:
   latitude: 37.24058129
   longitude: -118.2813176
   elevation: 1182.77
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -1746,8 +1746,8 @@ LWA-067:
   latitude: 37.24052694
   longitude: -118.28140211
   elevation: 1182.72
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -1772,8 +1772,8 @@ LWA-068:
   latitude: 37.24046833
   longitude: -118.28133217
   elevation: 1182.69
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -1798,8 +1798,8 @@ LWA-069:
   latitude: 37.24037835
   longitude: -118.2813634
   elevation: 1182.8
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -1824,8 +1824,8 @@ LWA-070:
   latitude: 37.24026403
   longitude: -118.28148115
   elevation: 1182.68
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -1850,8 +1850,8 @@ LWA-071:
   latitude: 37.24008937
   longitude: -118.28136844
   elevation: 1182.89
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -1876,8 +1876,8 @@ LWA-072:
   latitude: 37.24005545
   longitude: -118.28147751
   elevation: 1182.49
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -1902,8 +1902,8 @@ LWA-073:
   latitude: 37.24004105
   longitude: -118.28132217
   elevation: 1182.84
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -1928,8 +1928,8 @@ LWA-074:
   latitude: 37.23995746
   longitude: -118.28129209
   elevation: 1182.82
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -1954,8 +1954,8 @@ LWA-075:
   latitude: 37.23994031
   longitude: -118.28142573
   elevation: 1182.67
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -1980,8 +1980,8 @@ LWA-076:
   latitude: 37.23986358
   longitude: -118.28144072
   elevation: 1182.8
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -2006,8 +2006,8 @@ LWA-077:
   latitude: 37.23986084
   longitude: -118.28132434
   elevation: 1182.67
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -2032,8 +2032,8 @@ LWA-078:
   latitude: 37.2398323
   longitude: -118.28138377
   elevation: 1182.95
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -2058,8 +2058,8 @@ LWA-079:
   latitude: 37.2398006
   longitude: -118.28146677
   elevation: 1183.08
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -2084,8 +2084,8 @@ LWA-080:
   latitude: 37.23972941
   longitude: -118.28131152
   elevation: 1182.76
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -2110,8 +2110,8 @@ LWA-081:
   latitude: 37.23969835
   longitude: -118.28142968
   elevation: 1183.1
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -2136,8 +2136,8 @@ LWA-082:
   latitude: 37.23962839
   longitude: -118.28139333
   elevation: 1183.03
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -2162,8 +2162,8 @@ LWA-083:
   latitude: 37.23960887
   longitude: -118.28131898
   elevation: 1182.93
-  snap2_used: false
-  snap2_group: -1
+  used: false
+  online: false
   snap2_serial: -1
   snap2_chassis: -1
   snap2_location: -1
@@ -2188,8 +2188,8 @@ LWA-084:
   latitude: 37.23957471
   longitude: -118.28128127
   elevation: 1182.85
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -2214,8 +2214,8 @@ LWA-085:
   latitude: 37.23950626
   longitude: -118.28139816
   elevation: 1182.77
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -2240,8 +2240,8 @@ LWA-086:
   latitude: 37.23947941
   longitude: -118.2813026
   elevation: 1182.66
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -2266,8 +2266,8 @@ LWA-087:
   latitude: 37.23943585
   longitude: -118.28145393
   elevation: 1182.45
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -2292,8 +2292,8 @@ LWA-088:
   latitude: 37.23937961
   longitude: -118.28134322
   elevation: 1182.26
-  snap2_used: false
-  snap2_group: -1
+  used: false
+  online: false
   snap2_serial: -1
   snap2_chassis: -1
   snap2_location: -1
@@ -2318,8 +2318,8 @@ LWA-089:
   latitude: 37.23930194
   longitude: -118.28146875
   elevation: 1182.49
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -2344,8 +2344,8 @@ LWA-090:
   latitude: 37.23923106
   longitude: -118.28138177
   elevation: 1182.59
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -2370,8 +2370,8 @@ LWA-091:
   latitude: 37.23916647
   longitude: -118.28139144
   elevation: 1182.69
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -2396,8 +2396,8 @@ LWA-092:
   latitude: 37.23910344
   longitude: -118.28132494
   elevation: 1182.74
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -2422,8 +2422,8 @@ LWA-093:
   latitude: 37.23902551
   longitude: -118.28131229
   elevation: 1182.73
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -2448,8 +2448,8 @@ LWA-094:
   latitude: 37.23901833
   longitude: -118.28146658
   elevation: 1182.7
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -2474,8 +2474,8 @@ LWA-095:
   latitude: 37.23893808
   longitude: -118.2813589
   elevation: 1182.57
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -2500,8 +2500,8 @@ LWA-096:
   latitude: 37.23890564
   longitude: -118.28144514
   elevation: 1182.64
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -2526,8 +2526,8 @@ LWA-097:
   latitude: 37.24068647
   longitude: -118.28155327
   elevation: 1182.89
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -2552,8 +2552,8 @@ LWA-098:
   latitude: 37.24047376
   longitude: -118.28155009
   elevation: 1183.12
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -2578,8 +2578,8 @@ LWA-099:
   latitude: 37.24038456
   longitude: -118.28153915
   elevation: 1182.99
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -2604,8 +2604,8 @@ LWA-100:
   latitude: 37.24030922
   longitude: -118.28161708
   elevation: 1182.65
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -2630,8 +2630,8 @@ LWA-101:
   latitude: 37.24023827
   longitude: -118.2815469
   elevation: 1182.51
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -2654,10 +2654,10 @@ LWA-102:
   antname: LWA-102
   antnumber: 102
   latitude: 37.24023518
-  longitude: -118.28167586000001
+  longitude: -118.28167586
   elevation: 1182.52
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -2682,8 +2682,8 @@ LWA-103:
   latitude: 37.24019467
   longitude: -118.28163367
   elevation: 1182.64
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -2708,8 +2708,8 @@ LWA-104:
   latitude: 37.2401829
   longitude: -118.28153112
   elevation: 1182.55
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -2734,8 +2734,8 @@ LWA-105:
   latitude: 37.24011965
   longitude: -118.28152037
   elevation: 1182.52
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -2760,8 +2760,8 @@ LWA-106:
   latitude: 37.24010416
   longitude: -118.28160422
   elevation: 1182.54
-  snap2_used: false
-  snap2_group: -1
+  used: false
+  online: false
   snap2_serial: -1
   snap2_chassis: -1
   snap2_location: -1
@@ -2786,8 +2786,8 @@ LWA-107:
   latitude: 37.24002833
   longitude: -118.28154359
   elevation: 1182.63
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -2812,8 +2812,8 @@ LWA-108:
   latitude: 37.23993209
   longitude: -118.28155418
   elevation: 1182.77
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -2838,8 +2838,8 @@ LWA-109:
   latitude: 37.23991832
   longitude: -118.28163448
   elevation: 1182.81
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -2864,8 +2864,8 @@ LWA-110:
   latitude: 37.23988883
   longitude: -118.28167658
   elevation: 1182.86
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -2890,8 +2890,8 @@ LWA-111:
   latitude: 37.23988712
   longitude: -118.28154042
   elevation: 1182.89
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -2916,8 +2916,8 @@ LWA-112:
   latitude: 37.23979248
   longitude: -118.28160005
   elevation: 1183.07
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -2942,8 +2942,8 @@ LWA-113:
   latitude: 37.23975101
   longitude: -118.28166363
   elevation: 1183.13
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -2968,8 +2968,8 @@ LWA-114:
   latitude: 37.23972758
   longitude: -118.28161482
   elevation: 1183.22
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -2994,8 +2994,8 @@ LWA-115:
   latitude: 37.23970227
   longitude: -118.28167507
   elevation: 1183.15
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -3020,8 +3020,8 @@ LWA-116:
   latitude: 37.23967521
   longitude: -118.28162071
   elevation: 1183.17
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -3046,8 +3046,8 @@ LWA-117:
   latitude: 37.23963314
   longitude: -118.28166853
   elevation: 1182.98
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -3072,8 +3072,8 @@ LWA-118:
   latitude: 37.23960562
   longitude: -118.28160268
   elevation: 1182.92
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -3098,8 +3098,8 @@ LWA-119:
   latitude: 37.23959808
   longitude: -118.28152568
   elevation: 1182.99
-  snap2_used: false
-  snap2_group: -1
+  used: false
+  online: false
   snap2_serial: -1
   snap2_chassis: -1
   snap2_location: -1
@@ -3124,8 +3124,8 @@ LWA-120:
   latitude: 37.23956661
   longitude: -118.28167352
   elevation: 1182.7
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -3150,8 +3150,8 @@ LWA-121:
   latitude: 37.23947023
   longitude: -118.28156879
   elevation: 1182.69
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -3176,8 +3176,8 @@ LWA-122:
   latitude: 37.23937273
   longitude: -118.28149746
   elevation: 1182.36
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -3202,8 +3202,8 @@ LWA-123:
   latitude: 37.23936271
   longitude: -118.28162315
   elevation: 1182.65
-  snap2_used: false
-  snap2_group: -1
+  used: false
+  online: false
   snap2_serial: -1
   snap2_chassis: -1
   snap2_location: -1
@@ -3228,8 +3228,8 @@ LWA-124:
   latitude: 37.23928088
   longitude: -118.28161606
   elevation: 1182.87
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -3254,8 +3254,8 @@ LWA-125:
   latitude: 37.23912725
   longitude: -118.28160523
   elevation: 1182.77
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -3280,8 +3280,8 @@ LWA-126:
   latitude: 37.23911433
   longitude: -118.28151776
   elevation: 1182.75
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -3306,8 +3306,8 @@ LWA-127:
   latitude: 37.23903889
   longitude: -118.28162302
   elevation: 1182.69
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -3332,8 +3332,8 @@ LWA-128:
   latitude: 37.23890873
   longitude: -118.28165784
   elevation: 1182.67
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -3358,8 +3358,8 @@ LWA-129:
   latitude: 37.24066826
   longitude: -118.2818364
   elevation: 1183.03
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -3384,8 +3384,8 @@ LWA-130:
   latitude: 37.24065792
   longitude: -118.28171262
   elevation: 1182.84
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -3410,8 +3410,8 @@ LWA-131:
   latitude: 37.24055601
   longitude: -118.2817337
   elevation: 1183.29
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -3436,8 +3436,8 @@ LWA-132:
   latitude: 37.24050485
   longitude: -118.28180523
   elevation: 1183.36
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -3462,8 +3462,8 @@ LWA-133:
   latitude: 37.24046316
   longitude: -118.28184082
   elevation: 1183.34
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -3488,8 +3488,8 @@ LWA-134:
   latitude: 37.24045044
   longitude: -118.2817217
   elevation: 1183.19
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -3514,8 +3514,8 @@ LWA-135:
   latitude: 37.24030174
   longitude: -118.28185662
   elevation: 1182.8
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -3540,8 +3540,8 @@ LWA-136:
   latitude: 37.24026023
   longitude: -118.28181887
   elevation: 1182.68
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -3566,8 +3566,8 @@ LWA-137:
   latitude: 37.2402568
   longitude: -118.28187913
   elevation: 1182.8
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -3592,8 +3592,8 @@ LWA-138:
   latitude: 37.24014522
   longitude: -118.2817778
   elevation: 1182.55
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -3618,8 +3618,8 @@ LWA-139:
   latitude: 37.24010244
   longitude: -118.28170494
   elevation: 1182.48
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -3644,8 +3644,8 @@ LWA-140:
   latitude: 37.24008681
   longitude: -118.28179152
   elevation: 1182.57
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -3670,8 +3670,8 @@ LWA-141:
   latitude: 37.24005821
   longitude: -118.28186972
   elevation: 1182.65
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -3696,8 +3696,8 @@ LWA-142:
   latitude: 37.24003234
   longitude: -118.28173251
   elevation: 1182.52
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -3722,8 +3722,8 @@ LWA-143:
   latitude: 37.23999336
   longitude: -118.28170397
   elevation: 1182.52
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -3748,8 +3748,8 @@ LWA-144:
   latitude: 37.23998137
   longitude: -118.28182151
   elevation: 1182.59
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -3774,8 +3774,8 @@ LWA-145:
   latitude: 37.23992112
   longitude: -118.28174098
   elevation: 1182.73
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -3800,8 +3800,8 @@ LWA-146:
   latitude: 37.23982742
   longitude: -118.28177534
   elevation: 1182.78
-  snap2_used: false
-  snap2_group: -1
+  used: false
+  online: false
   snap2_serial: -1
   snap2_chassis: -1
   snap2_location: -1
@@ -3826,8 +3826,8 @@ LWA-147:
   latitude: 37.23981503
   longitude: -118.28183121
   elevation: 1182.78
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -3852,8 +3852,8 @@ LWA-148:
   latitude: 37.23971708
   longitude: -118.2817838
   elevation: 1182.79
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -3878,8 +3878,8 @@ LWA-149:
   latitude: 37.23965165
   longitude: -118.28177691
   elevation: 1182.84
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -3904,8 +3904,8 @@ LWA-150:
   latitude: 37.23957941
   longitude: -118.28173965
   elevation: 1182.76
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -3930,8 +3930,8 @@ LWA-151:
   latitude: 37.23957589
   longitude: -118.28187092
   elevation: 1182.8
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -3956,8 +3956,8 @@ LWA-152:
   latitude: 37.23951195
   longitude: -118.28182427
   elevation: 1182.72
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -3982,8 +3982,8 @@ LWA-153:
   latitude: 37.23945389
   longitude: -118.28177201
   elevation: 1182.76
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -4008,8 +4008,8 @@ LWA-154:
   latitude: 37.239378
   longitude: -118.28175884
   elevation: 1182.88
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -4034,8 +4034,8 @@ LWA-155:
   latitude: 37.23935653
   longitude: -118.2817072
   elevation: 1182.84
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -4060,8 +4060,8 @@ LWA-156:
   latitude: 37.23930994
   longitude: -118.28178137
   elevation: 1182.98
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -4086,8 +4086,8 @@ LWA-157:
   latitude: 37.23926781
   longitude: -118.28176021
   elevation: 1182.9
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -4112,8 +4112,8 @@ LWA-158:
   latitude: 37.23905325
   longitude: -118.2817099
   elevation: 1182.59
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -4138,8 +4138,8 @@ LWA-159:
   latitude: 37.23899838
   longitude: -118.2817955
   elevation: 1182.58
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -4164,8 +4164,8 @@ LWA-160:
   latitude: 37.23888067
   longitude: -118.2818386
   elevation: 1182.66
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -4190,8 +4190,8 @@ LWA-161:
   latitude: 37.24068092
   longitude: -118.28206328
   elevation: 1182.88
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -4216,8 +4216,8 @@ LWA-162:
   latitude: 37.24051926
   longitude: -118.28191434
   elevation: 1183.55
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -4242,8 +4242,8 @@ LWA-163:
   latitude: 37.24045172
   longitude: -118.28207649
   elevation: 1183.54
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -4268,8 +4268,8 @@ LWA-164:
   latitude: 37.24036689
   longitude: -118.28189045
   elevation: 1183.13
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -4294,8 +4294,8 @@ LWA-165:
   latitude: 37.24025318
   longitude: -118.2820573
   elevation: 1183.14
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -4320,8 +4320,8 @@ LWA-166:
   latitude: 37.24016971
   longitude: -118.28189409
   elevation: 1182.79
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -4346,8 +4346,8 @@ LWA-167:
   latitude: 37.240093
   longitude: -118.28199327
   elevation: 1183.11
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -4372,8 +4372,8 @@ LWA-168:
   latitude: 37.24005947
   longitude: -118.28205377
   elevation: 1183.31
-  snap2_used: false
-  snap2_group: -1
+  used: false
+  online: false
   snap2_serial: -1
   snap2_chassis: -1
   snap2_location: -1
@@ -4398,8 +4398,8 @@ LWA-169:
   latitude: 37.24001906
   longitude: -118.28199713
   elevation: 1183.06
-  snap2_used: false
-  snap2_group: -1
+  used: false
+  online: false
   snap2_serial: -1
   snap2_chassis: -1
   snap2_location: -1
@@ -4424,8 +4424,8 @@ LWA-170:
   latitude: 37.2399539
   longitude: -118.2820836
   elevation: 1183.19
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -4450,8 +4450,8 @@ LWA-171:
   latitude: 37.2399239
   longitude: -118.28194697
   elevation: 1182.75
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -4476,8 +4476,8 @@ LWA-172:
   latitude: 37.23984646
   longitude: -118.28193358
   elevation: 1182.72
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -4502,8 +4502,8 @@ LWA-173:
   latitude: 37.23983203
   longitude: -118.2820776
   elevation: 1183.16
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -4528,8 +4528,8 @@ LWA-174:
   latitude: 37.23981447
   longitude: -118.28188567
   elevation: 1182.64
-  snap2_used: false
-  snap2_group: -1
+  used: false
+  online: false
   snap2_serial: -1
   snap2_chassis: -1
   snap2_location: -1
@@ -4554,8 +4554,8 @@ LWA-175:
   latitude: 37.23980711
   longitude: -118.28201393
   elevation: 1182.95
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -4580,8 +4580,8 @@ LWA-176:
   latitude: 37.23973347
   longitude: -118.28197898
   elevation: 1182.87
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -4606,8 +4606,8 @@ LWA-177:
   latitude: 37.23969309
   longitude: -118.28201878
   elevation: 1183.03
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -4632,8 +4632,8 @@ LWA-178:
   latitude: 37.23964422
   longitude: -118.28188461
   elevation: 1182.83
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -4658,8 +4658,8 @@ LWA-179:
   latitude: 37.23963069
   longitude: -118.28199204
   elevation: 1183.01
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -4684,8 +4684,8 @@ LWA-180:
   latitude: 37.23956386
   longitude: -118.28206107
   elevation: 1182.95
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -4710,8 +4710,8 @@ LWA-181:
   latitude: 37.23954294
   longitude: -118.28191311
   elevation: 1182.92
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -4736,8 +4736,8 @@ LWA-182:
   latitude: 37.23940676
   longitude: -118.28196497
   elevation: 1182.93
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -4762,8 +4762,8 @@ LWA-183:
   latitude: 37.2394042
   longitude: -118.28202494
   elevation: 1182.92
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -4788,8 +4788,8 @@ LWA-184:
   latitude: 37.23939305
   longitude: -118.28188019
   elevation: 1182.87
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -4814,8 +4814,8 @@ LWA-185:
   latitude: 37.23933462
   longitude: -118.28189389
   elevation: 1182.96
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -4840,8 +4840,8 @@ LWA-186:
   latitude: 37.23931788
   longitude: -118.2820626
   elevation: 1182.87
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -4866,8 +4866,8 @@ LWA-187:
   latitude: 37.23922783
   longitude: -118.28198704
   elevation: 1182.82
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -4892,8 +4892,8 @@ LWA-188:
   latitude: 37.23913259
   longitude: -118.2818888
   elevation: 1182.7
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -4918,8 +4918,8 @@ LWA-189:
   latitude: 37.23906865
   longitude: -118.28200525
   elevation: 1182.71
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -4944,8 +4944,8 @@ LWA-190:
   latitude: 37.23906509
   longitude: -118.28189495
   elevation: 1182.66
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -4970,8 +4970,8 @@ LWA-191:
   latitude: 37.23900226
   longitude: -118.28198366
   elevation: 1182.71
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -4996,8 +4996,8 @@ LWA-192:
   latitude: 37.23894916
   longitude: -118.28197328
   elevation: 1182.8
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -5022,8 +5022,8 @@ LWA-193:
   latitude: 37.24058437
   longitude: -118.28226774
   elevation: 1182.95
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -5048,8 +5048,8 @@ LWA-194:
   latitude: 37.24054176
   longitude: -118.28216682
   elevation: 1183.06
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -5074,8 +5074,8 @@ LWA-195:
   latitude: 37.2405099
   longitude: -118.28234137
   elevation: 1183.15
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -5100,8 +5100,8 @@ LWA-196:
   latitude: 37.24035349
   longitude: -118.2821551
   elevation: 1183.38
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -5126,8 +5126,8 @@ LWA-197:
   latitude: 37.24032985
   longitude: -118.28228752
   elevation: 1183.5
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -5152,8 +5152,8 @@ LWA-198:
   latitude: 37.24031702
   longitude: -118.28209915
   elevation: 1183.34
-  snap2_used: false
-  snap2_group: -1
+  used: false
+  online: false
   snap2_serial: -1
   snap2_chassis: -1
   snap2_location: -1
@@ -5178,8 +5178,8 @@ LWA-199:
   latitude: 37.24025556
   longitude: -118.28235668
   elevation: 1183.51
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -5204,8 +5204,8 @@ LWA-200:
   latitude: 37.24023498
   longitude: -118.28223105
   elevation: 1183.35
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -5230,8 +5230,8 @@ LWA-201:
   latitude: 37.24020627
   longitude: -118.28212559
   elevation: 1183.2
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -5256,8 +5256,8 @@ LWA-202:
   latitude: 37.24013446
   longitude: -118.28213357
   elevation: 1183.24
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -5282,8 +5282,8 @@ LWA-203:
   latitude: 37.24008471
   longitude: -118.282378
   elevation: 1183.44
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -5308,8 +5308,8 @@ LWA-204:
   latitude: 37.24002796
   longitude: -118.2822074
   elevation: 1183.36
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -5334,8 +5334,8 @@ LWA-205:
   latitude: 37.23995846
   longitude: -118.2823332
   elevation: 1183.43
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -5360,8 +5360,8 @@ LWA-206:
   latitude: 37.23992045
   longitude: -118.28220659
   elevation: 1183.27
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -5386,8 +5386,8 @@ LWA-207:
   latitude: 37.23988544
   longitude: -118.28211116
   elevation: 1183.16
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -5412,8 +5412,8 @@ LWA-208:
   latitude: 37.23984916
   longitude: -118.28222094
   elevation: 1183.39
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -5438,8 +5438,8 @@ LWA-209:
   latitude: 37.23980315
   longitude: -118.28222262
   elevation: 1183.36
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -5464,8 +5464,8 @@ LWA-210:
   latitude: 37.23975638
   longitude: -118.28218374
   elevation: 1183.3
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -5490,8 +5490,8 @@ LWA-211:
   latitude: 37.23966566
   longitude: -118.28220099
   elevation: 1183.09
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -5516,8 +5516,8 @@ LWA-212:
   latitude: 37.23961135
   longitude: -118.28213313
   elevation: 1183.1
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -5542,8 +5542,8 @@ LWA-213:
   latitude: 37.23960112
   longitude: -118.28232615
   elevation: 1182.98
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -5568,8 +5568,8 @@ LWA-214:
   latitude: 37.23955709
   longitude: -118.28224927
   elevation: 1182.99
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -5594,8 +5594,8 @@ LWA-215:
   latitude: 37.23955076
   longitude: -118.28211416
   elevation: 1183.07
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -5620,8 +5620,8 @@ LWA-216:
   latitude: 37.23945065
   longitude: -118.28217394
   elevation: 1182.87
-  snap2_used: false
-  snap2_group: -1
+  used: false
+  online: false
   snap2_serial: -1
   snap2_chassis: -1
   snap2_location: -1
@@ -5646,8 +5646,8 @@ LWA-217:
   latitude: 37.23942601
   longitude: -118.28222564
   elevation: 1182.81
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -5672,8 +5672,8 @@ LWA-218:
   latitude: 37.23939859
   longitude: -118.28210628
   elevation: 1182.92
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -5698,8 +5698,8 @@ LWA-219:
   latitude: 37.23938798
   longitude: -118.2823083
   elevation: 1182.86
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -5724,8 +5724,8 @@ LWA-220:
   latitude: 37.23927952
   longitude: -118.28223196
   elevation: 1182.87
-  snap2_used: false
-  snap2_group: -1
+  used: false
+  online: false
   snap2_serial: -1
   snap2_chassis: -1
   snap2_location: -1
@@ -5750,8 +5750,8 @@ LWA-221:
   latitude: 37.23915411
   longitude: -118.28227023
   elevation: 1182.7
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -5776,8 +5776,8 @@ LWA-222:
   latitude: 37.2391416
   longitude: -118.2821491
   elevation: 1182.6
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -5802,8 +5802,8 @@ LWA-223:
   latitude: 37.23907594
   longitude: -118.28235668
   elevation: 1182.8
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -5828,8 +5828,8 @@ LWA-224:
   latitude: 37.23900323
   longitude: -118.282186
   elevation: 1182.85
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -5854,8 +5854,8 @@ LWA-225:
   latitude: 37.24045911
   longitude: -118.28250024
   elevation: 1183.51
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -5880,8 +5880,8 @@ LWA-226:
   latitude: 37.2403059
   longitude: -118.28256184
   elevation: 1183.78
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -5906,8 +5906,8 @@ LWA-227:
   latitude: 37.24029313
   longitude: -118.28239042
   elevation: 1183.61
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -5932,8 +5932,8 @@ LWA-228:
   latitude: 37.24017936
   longitude: -118.28254834
   elevation: 1183.68
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -5958,8 +5958,8 @@ LWA-229:
   latitude: 37.24012768
   longitude: -118.28250381
   elevation: 1183.56
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -5984,8 +5984,8 @@ LWA-230:
   latitude: 37.24010696
   longitude: -118.28262277
   elevation: 1183.59
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -6010,8 +6010,8 @@ LWA-231:
   latitude: 37.24003849
   longitude: -118.28267708
   elevation: 1183.49
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -6036,8 +6036,8 @@ LWA-232:
   latitude: 37.23995679
   longitude: -118.28264472
   elevation: 1183.53
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -6062,8 +6062,8 @@ LWA-233:
   latitude: 37.23992214
   longitude: -118.28239028
   elevation: 1183.34
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -6088,8 +6088,8 @@ LWA-234:
   latitude: 37.23984739
   longitude: -118.2825971
   elevation: 1183.4
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -6114,8 +6114,8 @@ LWA-235:
   latitude: 37.23982881
   longitude: -118.28242881
   elevation: 1183.15
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -6140,8 +6140,8 @@ LWA-236:
   latitude: 37.23979206
   longitude: -118.28253152
   elevation: 1183.22
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -6166,8 +6166,8 @@ LWA-237:
   latitude: 37.23975707
   longitude: -118.28270626
   elevation: 1183.56
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -6192,8 +6192,8 @@ LWA-238:
   latitude: 37.23973853
   longitude: -118.28237884
   elevation: 1183.1
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -6218,8 +6218,8 @@ LWA-239:
   latitude: 37.23968977
   longitude: -118.28240127
   elevation: 1183.09
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -6244,8 +6244,8 @@ LWA-240:
   latitude: 37.23963869
   longitude: -118.28274017
   elevation: 1183.52
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -6270,8 +6270,8 @@ LWA-241:
   latitude: 37.23962331
   longitude: -118.28247819
   elevation: 1183.14
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -6296,8 +6296,8 @@ LWA-242:
   latitude: 37.23960331
   longitude: -118.28257664
   elevation: 1183.28
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -6322,8 +6322,8 @@ LWA-243:
   latitude: 37.23957761
   longitude: -118.28262243
   elevation: 1183.41
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -6348,8 +6348,8 @@ LWA-244:
   latitude: 37.23952124
   longitude: -118.28243821
   elevation: 1183.03
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -6374,8 +6374,8 @@ LWA-245:
   latitude: 37.23949964
   longitude: -118.28277593
   elevation: 1183.46
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -6400,8 +6400,8 @@ LWA-246:
   latitude: 37.23948833
   longitude: -118.28265759
   elevation: 1183.31
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -6426,8 +6426,8 @@ LWA-247:
   latitude: 37.23939337
   longitude: -118.28258432
   elevation: 1183.09
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -6452,8 +6452,8 @@ LWA-248:
   latitude: 37.23939119
   longitude: -118.28251398
   elevation: 1182.96
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -6478,8 +6478,8 @@ LWA-249:
   latitude: 37.23930282
   longitude: -118.28258531
   elevation: 1183.09
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -6504,8 +6504,8 @@ LWA-250:
   latitude: 37.23928711
   longitude: -118.28244351
   elevation: 1182.72
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -6530,8 +6530,8 @@ LWA-251:
   latitude: 37.23917799
   longitude: -118.28247066
   elevation: 1182.85
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -6556,8 +6556,8 @@ LWA-252:
   latitude: 37.2420327
   longitude: -118.28068315
   elevation: 1183.77
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -6582,8 +6582,8 @@ LWA-253:
   latitude: 37.24206435
   longitude: -118.28252844
   elevation: 1183.58
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -6608,8 +6608,8 @@ LWA-254:
   latitude: 37.24122255
   longitude: -118.28404559
   elevation: 1183.67
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -6634,8 +6634,8 @@ LWA-255:
   latitude: 37.2398291
   longitude: -118.28465361
   elevation: 1184.06
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -6660,8 +6660,8 @@ LWA-256:
   latitude: 37.2384156
   longitude: -118.28412095
   elevation: 1182.83
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -6686,8 +6686,8 @@ LWA-257:
   latitude: 37.23745241
   longitude: -118.2894516
   elevation: 1179.72
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -6712,8 +6712,8 @@ LWA-258:
   latitude: 37.24283535
   longitude: -118.29344758
   elevation: 1179.57
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -6738,8 +6738,8 @@ LWA-259:
   latitude: 37.2480995
   longitude: -118.28425065
   elevation: 1184.91
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -6764,8 +6764,8 @@ LWA-260:
   latitude: 37.24223261
   longitude: -118.28829841
   elevation: 1183.23
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -6790,8 +6790,8 @@ LWA-261:
   latitude: 37.24838143
   longitude: -118.28024269
   elevation: 1185.24
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -6816,8 +6816,8 @@ LWA-262:
   latitude: 37.23905459
   longitude: -118.27996169
   elevation: 1182.47
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -6842,8 +6842,8 @@ LWA-263:
   latitude: 37.23617701
   longitude: -118.28486471
   elevation: 1182.09
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -6868,8 +6868,8 @@ LWA-264:
   latitude: 37.24742802
   longitude: -118.2905707
   elevation: 1184.92
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -6894,8 +6894,8 @@ LWA-265:
   latitude: 37.23930622
   longitude: -118.28529437
   elevation: 1182.75
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -6920,8 +6920,8 @@ LWA-266:
   latitude: 37.24245623
   longitude: -118.28463929
   elevation: 1184.34
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -6946,8 +6946,8 @@ LWA-267:
   latitude: 37.24374688
   longitude: -118.28177168
   elevation: 1184.37
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -6972,8 +6972,8 @@ LWA-268:
   latitude: 37.24311944
   longitude: -118.28501222
   elevation: 1184.67
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -6998,8 +6998,8 @@ LWA-269:
   latitude: 37.24480176
   longitude: -118.28011584
   elevation: 1183.77
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -7024,8 +7024,8 @@ LWA-270:
   latitude: 37.23919999
   longitude: -118.28928192
   elevation: 1181
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -7050,8 +7050,8 @@ LWA-271:
   latitude: 37.24699479
   longitude: -118.28544275
   elevation: 1184.64
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -7076,8 +7076,8 @@ LWA-272:
   latitude: 37.24350098
   longitude: -118.29122108
   elevation: 1182.29
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -7102,8 +7102,8 @@ LWA-273:
   latitude: 37.24496879
   longitude: -118.28912494
   elevation: 1184.59
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -7128,8 +7128,8 @@ LWA-274:
   latitude: 37.24067826
   longitude: -118.28000645
   elevation: 1182.93
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -7154,8 +7154,8 @@ LWA-275:
   latitude: 37.24558814
   longitude: -118.2781173
   elevation: 1183.86
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -7180,8 +7180,8 @@ LWA-276:
   latitude: 37.24492776
   longitude: -118.2877484
   elevation: 1184.64
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -7206,8 +7206,8 @@ LWA-277:
   latitude: 37.24560389
   longitude: -118.28027201
   elevation: 1184.3
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -7232,8 +7232,8 @@ LWA-278:
   latitude: 37.24595285
   longitude: -118.28361791
   elevation: 1184.13
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -7258,8 +7258,8 @@ LWA-279:
   latitude: 37.24466804
   longitude: -118.27768357
   elevation: 1183.98
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -7284,8 +7284,8 @@ LWA-280:
   latitude: 37.24003212
   longitude: -118.29044631
   elevation: 1179.97
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -7310,8 +7310,8 @@ LWA-281:
   latitude: 37.24212013
   longitude: -118.28467294
   elevation: 1184.03
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -7336,8 +7336,8 @@ LWA-282:
   latitude: 37.24424704
   longitude: -118.28344968
   elevation: 1184.48
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -7362,8 +7362,8 @@ LWA-283:
   latitude: 37.23794955
   longitude: -118.29056542
   elevation: 1179.59
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -7388,8 +7388,8 @@ LWA-284:
   latitude: 37.24087344
   longitude: -118.28645944
   elevation: 1183.69
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -7414,8 +7414,8 @@ LWA-285:
   latitude: 37.24457919
   longitude: -118.28621176
   elevation: 1184.07
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -7440,8 +7440,8 @@ LWA-286:
   latitude: 37.24025342
   longitude: -118.29419388
   elevation: 1179.24
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -7466,8 +7466,8 @@ LWA-287:
   latitude: 37.24477362
   longitude: -118.29293207
   elevation: 1179.9
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -7492,8 +7492,8 @@ LWA-288:
   latitude: 37.24319645
   longitude: -118.29032361
   elevation: 1181.63
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -7515,11 +7515,11 @@ LWA-288:
 LWA-289:
   antname: LWA-289
   antnumber: 289
-  latitude: 37.23400256119999
+  latitude: 37.2340025612
   longitude: -118.2884194752
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -7541,11 +7541,11 @@ LWA-289:
 LWA-290:
   antname: LWA-290
   antnumber: 290
-  latitude: 37.23581697619999
+  latitude: 37.2358169762
   longitude: -118.2894946412
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -7567,11 +7567,11 @@ LWA-290:
 LWA-291:
   antname: LWA-291
   antnumber: 291
-  latitude: 37.241987232199996
+  latitude: 37.2419872322
   longitude: -118.2931938602
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -7593,11 +7593,11 @@ LWA-291:
 LWA-292:
   antname: LWA-292
   antnumber: 292
-  latitude: 37.240745878199995
+  latitude: 37.2407458782
   longitude: -118.2919627692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -7622,8 +7622,8 @@ LWA-293:
   latitude: 37.2411280072
   longitude: -118.2823113692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -7648,8 +7648,8 @@ LWA-294:
   latitude: 37.2411508982
   longitude: -118.2812309612
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -7671,11 +7671,11 @@ LWA-294:
 LWA-295:
   antname: LWA-295
   antnumber: 295
-  latitude: 37.240951235199994
+  latitude: 37.2409512352
   longitude: -118.2878576692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -7697,11 +7697,11 @@ LWA-295:
 LWA-296:
   antname: LWA-296
   antnumber: 296
-  latitude: 37.24187965219999
+  latitude: 37.2418796522
   longitude: -118.2897122692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -7726,8 +7726,8 @@ LWA-297:
   latitude: 37.2495892562
   longitude: -118.2808874832
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -7749,11 +7749,11 @@ LWA-297:
 LWA-298:
   antname: LWA-298
   antnumber: 298
-  latitude: 37.249584330199994
+  latitude: 37.2495843302
   longitude: -118.2777622692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -7775,11 +7775,11 @@ LWA-298:
 LWA-299:
   antname: LWA-299
   antnumber: 299
-  latitude: 37.236552618199994
+  latitude: 37.2365526182
   longitude: -118.2777585692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -7801,11 +7801,11 @@ LWA-299:
 LWA-300:
   antname: LWA-300
   antnumber: 300
-  latitude: 37.23785228719999
-  longitude: -118.27720626920001
+  latitude: 37.2378522872
+  longitude: -118.2772062692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -7827,11 +7827,11 @@ LWA-300:
 LWA-301:
   antname: LWA-301
   antnumber: 301
-  latitude: 37.23612725219999
+  latitude: 37.2361272522
   longitude: -118.2874094692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -7853,11 +7853,11 @@ LWA-301:
 LWA-302:
   antname: LWA-302
   antnumber: 302
-  latitude: 37.23393297319999
+  latitude: 37.2339329732
   longitude: -118.2856157572
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -7879,11 +7879,11 @@ LWA-302:
 LWA-303:
   antname: LWA-303
   antnumber: 303
-  latitude: 37.23732896519999
+  latitude: 37.2373289652
   longitude: -118.2862442692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -7905,11 +7905,11 @@ LWA-303:
 LWA-304:
   antname: LWA-304
   antnumber: 304
-  latitude: 37.239139191199996
+  latitude: 37.2391391912
   longitude: -118.2832514692
   elevation: 1183.23
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -7931,11 +7931,11 @@ LWA-304:
 LWA-305:
   antname: LWA-305
   antnumber: 305
-  latitude: 37.23994080119999
+  latitude: 37.2399408012
   longitude: -118.2863847692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -7957,11 +7957,11 @@ LWA-305:
 LWA-306:
   antname: LWA-306
   antnumber: 306
-  latitude: 37.238325902199996
+  latitude: 37.2383259022
   longitude: -118.2877316942
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -7983,11 +7983,11 @@ LWA-306:
 LWA-307:
   antname: LWA-307
   antnumber: 307
-  latitude: 37.244361108199996
+  latitude: 37.2443611082
   longitude: -118.2844719692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -8009,11 +8009,11 @@ LWA-307:
 LWA-308:
   antname: LWA-308
   antnumber: 308
-  latitude: 37.24533900419999
+  latitude: 37.2453390042
   longitude: -118.2844535692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -8035,11 +8035,11 @@ LWA-308:
 LWA-309:
   antname: LWA-309
   antnumber: 309
-  latitude: 37.24595792619999
+  latitude: 37.2459579262
   longitude: -118.2818410692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -8061,11 +8061,11 @@ LWA-309:
 LWA-310:
   antname: LWA-310
   antnumber: 310
-  latitude: 37.24519964619999
+  latitude: 37.2451996462
   longitude: -118.2823300952
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -8087,11 +8087,11 @@ LWA-310:
 LWA-311:
   antname: LWA-311
   antnumber: 311
-  latitude: 37.24283870119999
+  latitude: 37.2428387012
   longitude: -118.2866232902
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -8116,8 +8116,8 @@ LWA-312:
   latitude: 37.2439339272
   longitude: -118.2874848692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -8139,11 +8139,11 @@ LWA-312:
 LWA-313:
   antname: LWA-313
   antnumber: 313
-  latitude: 37.243406711199995
+  latitude: 37.2434067112
   longitude: -118.2787975882
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -8165,11 +8165,11 @@ LWA-313:
 LWA-314:
   antname: LWA-314
   antnumber: 314
-  latitude: 37.243258059199995
+  latitude: 37.2432580592
   longitude: -118.2803485692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -8191,11 +8191,11 @@ LWA-314:
 LWA-315:
   antname: LWA-315
   antnumber: 315
-  latitude: 37.237484124199995
+  latitude: 37.2374841242
   longitude: -118.2925046692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -8217,11 +8217,11 @@ LWA-315:
 LWA-316:
   antname: LWA-316
   antnumber: 316
-  latitude: 37.23848336019999
+  latitude: 37.2384833602
   longitude: -118.2929475692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -8243,11 +8243,11 @@ LWA-316:
 LWA-317:
   antname: LWA-317
   antnumber: 317
-  latitude: 37.23826658419999
+  latitude: 37.2382665842
   longitude: -118.2861207692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -8269,11 +8269,11 @@ LWA-317:
 LWA-318:
   antname: LWA-318
   antnumber: 318
-  latitude: 37.237574445199996
+  latitude: 37.2375744452
   longitude: -118.2847327342
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -8295,11 +8295,11 @@ LWA-318:
 LWA-319:
   antname: LWA-319
   antnumber: 319
-  latitude: 37.24384033519999
+  latitude: 37.2438403352
   longitude: -118.2951269012
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 6
@@ -8321,11 +8321,11 @@ LWA-319:
 LWA-320:
   antname: LWA-320
   antnumber: 320
-  latitude: 37.243811476199994
+  latitude: 37.2438114762
   longitude: -118.2923430692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -8347,11 +8347,11 @@ LWA-320:
 LWA-321:
   antname: LWA-321
   antnumber: 321
-  latitude: 37.24629748019999
+  latitude: 37.2462974802
   longitude: -118.2875659692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -8376,8 +8376,8 @@ LWA-322:
   latitude: 37.2487495192
   longitude: -118.2894811692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -8399,11 +8399,11 @@ LWA-322:
 LWA-323:
   antname: LWA-323
   antnumber: 323
-  latitude: 37.241611864199996
-  longitude: -118.27931606920001
+  latitude: 37.2416118642
+  longitude: -118.2793160692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -8428,8 +8428,8 @@ LWA-324:
   latitude: 37.2399473792
   longitude: -118.2786074342
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -8451,11 +8451,11 @@ LWA-324:
 LWA-325:
   antname: LWA-325
   antnumber: 325
-  latitude: 37.248110954199994
+  latitude: 37.2481109542
   longitude: -118.2769858692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -8477,11 +8477,11 @@ LWA-325:
 LWA-326:
   antname: LWA-326
   antnumber: 326
-  latitude: 37.24636348319999
+  latitude: 37.2463634832
   longitude: -118.2783497692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -8503,11 +8503,11 @@ LWA-326:
 LWA-327:
   antname: LWA-327
   antnumber: 327
-  latitude: 37.24756676919999
+  latitude: 37.2475667692
   longitude: -118.2864927512
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -8529,11 +8529,11 @@ LWA-327:
 LWA-328:
   antname: LWA-328
   antnumber: 328
-  latitude: 37.24923287119999
+  latitude: 37.2492328712
   longitude: -118.2867668022
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -8555,11 +8555,11 @@ LWA-328:
 LWA-329:
   antname: LWA-329
   antnumber: 329
-  latitude: 37.247623673199996
+  latitude: 37.2476236732
   longitude: -118.2788334692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -8581,11 +8581,11 @@ LWA-329:
 LWA-330:
   antname: LWA-330
   antnumber: 330
-  latitude: 37.246829229199996
+  latitude: 37.2468292292
   longitude: -118.2801464692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -8607,11 +8607,11 @@ LWA-330:
 LWA-331:
   antname: LWA-331
   antnumber: 331
-  latitude: 37.247980360199996
+  latitude: 37.2479803602
   longitude: -118.2816252262
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -8633,11 +8633,11 @@ LWA-331:
 LWA-332:
   antname: LWA-332
   antnumber: 332
-  latitude: 37.246910412199995
-  longitude: -118.28250516920001
+  latitude: 37.2469104122
+  longitude: -118.2825051692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -8659,11 +8659,11 @@ LWA-332:
 LWA-333:
   antname: LWA-333
   antnumber: 333
-  latitude: 37.241169031199995
+  latitude: 37.2411690312
   longitude: -118.2772422032
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -8685,11 +8685,11 @@ LWA-333:
 LWA-334:
   antname: LWA-334
   antnumber: 334
-  latitude: 37.24338012519999
+  latitude: 37.2433801252
   longitude: -118.2776276642
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -8711,11 +8711,11 @@ LWA-334:
 LWA-335:
   antname: LWA-335
   antnumber: 335
-  latitude: 37.238956855199994
+  latitude: 37.2389568552
   longitude: -118.2919899692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -8737,11 +8737,11 @@ LWA-335:
 LWA-336:
   antname: LWA-336
   antnumber: 336
-  latitude: 37.24124847619999
+  latitude: 37.2412484762
   longitude: -118.2899790692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -8763,11 +8763,11 @@ LWA-336:
 LWA-337:
   antname: LWA-337
   antnumber: 337
-  latitude: 37.24080648819999
+  latitude: 37.2408064882
   longitude: -118.2856737102
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -8789,11 +8789,11 @@ LWA-337:
 LWA-338:
   antname: LWA-338
   antnumber: 338
-  latitude: 37.243125291199995
+  latitude: 37.2431252912
   longitude: -118.2826165062
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -8815,11 +8815,11 @@ LWA-338:
 LWA-339:
   antname: LWA-339
   antnumber: 339
-  latitude: 37.246825578199996
+  latitude: 37.2468255782
   longitude: -118.2839396692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -8841,11 +8841,11 @@ LWA-339:
 LWA-340:
   antname: LWA-340
   antnumber: 340
-  latitude: 37.245556033199996
+  latitude: 37.2455560332
   longitude: -118.2857778872
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -8867,11 +8867,11 @@ LWA-340:
 LWA-341:
   antname: LWA-341
   antnumber: 341
-  latitude: 37.233071423199995
+  latitude: 37.2330714232
   longitude: -118.2940874672
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -8893,11 +8893,11 @@ LWA-341:
 LWA-342:
   antname: LWA-342
   antnumber: 342
-  latitude: 37.236797661199994
+  latitude: 37.2367976612
   longitude: -118.2912935032
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -8919,11 +8919,11 @@ LWA-342:
 LWA-343:
   antname: LWA-343
   antnumber: 343
-  latitude: 37.24187100219999
+  latitude: 37.2418710022
   longitude: -118.2865220692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -8945,11 +8945,11 @@ LWA-343:
 LWA-344:
   antname: LWA-344
   antnumber: 344
-  latitude: 37.239895929199996
+  latitude: 37.2398959292
   longitude: -118.2881089692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -8971,11 +8971,11 @@ LWA-344:
 LWA-345:
   antname: LWA-345
   antnumber: 345
-  latitude: 37.238303490199996
+  latitude: 37.2383034902
   longitude: -118.2820893642
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -8997,11 +8997,11 @@ LWA-345:
 LWA-346:
   antname: LWA-346
   antnumber: 346
-  latitude: 37.24058981819999
+  latitude: 37.2405898182
   longitude: -118.2832376692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -9026,8 +9026,8 @@ LWA-347:
   latitude: 37.2365687162
   longitude: -118.2945735412
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -9049,11 +9049,11 @@ LWA-347:
 LWA-348:
   antname: LWA-348
   antnumber: 348
-  latitude: 37.23891907219999
+  latitude: 37.2389190722
   longitude: -118.2954386342
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -9075,11 +9075,11 @@ LWA-348:
 LWA-349:
   antname: LWA-349
   antnumber: 349
-  latitude: 37.24506103019999
+  latitude: 37.2450610302
   longitude: -118.2909214162
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -9101,11 +9101,11 @@ LWA-349:
 LWA-350:
   antname: LWA-350
   antnumber: 350
-  latitude: 37.24661519319999
+  latitude: 37.2466151932
   longitude: -118.2893410982
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -9127,11 +9127,11 @@ LWA-350:
 LWA-351:
   antname: LWA-351
   antnumber: 351
-  latitude: 37.24228286619999
+  latitude: 37.2422828662
   longitude: -118.2911782692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -9153,11 +9153,11 @@ LWA-351:
 LWA-352:
   antname: LWA-352
   antnumber: 352
-  latitude: 37.24340213119999
+  latitude: 37.2434021312
   longitude: -118.2884507962
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -9179,11 +9179,11 @@ LWA-352:
 LWA-353:
   antname: LWA-353
   antnumber: 353
-  latitude: 37.249456382199995
+  latitude: 37.2494563822
   longitude: -118.2948412692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -9205,11 +9205,11 @@ LWA-353:
 LWA-354:
   antname: LWA-354
   antnumber: 354
-  latitude: 37.249074793199995
+  latitude: 37.2490747932
   longitude: -118.2918006692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -9231,11 +9231,11 @@ LWA-354:
 LWA-355:
   antname: LWA-355
   antnumber: 355
-  latitude: 37.23605168019999
+  latitude: 37.2360516802
   longitude: -118.2822477262
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 2
   snap2_location: 7
@@ -9257,11 +9257,11 @@ LWA-355:
 LWA-356:
   antname: LWA-356
   antnumber: 356
-  latitude: 37.23606589119999
+  latitude: 37.2360658912
   longitude: -118.2806321692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -9283,11 +9283,11 @@ LWA-356:
 LWA-357:
   antname: LWA-357
   antnumber: 357
-  latitude: 37.237455831199995
+  latitude: 37.2374558312
   longitude: -118.2791484692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 1
   snap2_chassis: 2
   snap2_location: 9
@@ -9309,11 +9309,11 @@ LWA-357:
 LWA-358:
   antname: LWA-358
   antnumber: 358
-  latitude: 37.23734410219999
+  latitude: 37.2373441022
   longitude: -118.2804528692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -9335,11 +9335,11 @@ LWA-358:
 LWA-359:
   antname: LWA-359
   antnumber: 359
-  latitude: 37.23709245919999
-  longitude: -118.28195968520001
+  latitude: 37.2370924592
+  longitude: -118.2819596852
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -9361,11 +9361,11 @@ LWA-359:
 LWA-360:
   antname: LWA-360
   antnumber: 360
-  latitude: 37.232815040199995
+  latitude: 37.2328150402
   longitude: -118.2781855692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 2
@@ -9390,8 +9390,8 @@ LWA-361:
   latitude: 37.23841313
   longitude: -118.28095304
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 5
@@ -9413,11 +9413,11 @@ LWA-361:
 LWA-362:
   antname: LWA-362
   antnumber: 362
-  latitude: 37.23437710819999
+  latitude: 37.2343771082
   longitude: -118.2773526412
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: 13
   snap2_chassis: 1
   snap2_location: 1
@@ -9439,11 +9439,11 @@ LWA-362:
 LWA-363:
   antname: LWA-363
   antnumber: 363
-  latitude: 37.235264689199994
+  latitude: 37.2352646892
   longitude: -118.2793996692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 3
@@ -9465,11 +9465,11 @@ LWA-363:
 LWA-364:
   antname: LWA-364
   antnumber: 364
-  latitude: 37.234643031199994
+  latitude: 37.2346430312
   longitude: -118.2815506902
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -9491,11 +9491,11 @@ LWA-364:
 LWA-365:
   antname: LWA-365
   antnumber: 365
-  latitude: 37.23146134419999
-  longitude: -118.28272346920001
+  latitude: 37.2314613442
+  longitude: -118.2827234692
   elevation: 999999
-  snap2_used: true
-  snap2_group: -1
+  used: true
+  online: false
   snap2_serial: -1
   snap2_chassis: 1
   snap2_location: 4
@@ -9520,8 +9520,8 @@ LWA-366:
   latitude: 37.232092
   longitude: -118.295584
   elevation: 999999
-  snap2_used: false
-  snap2_group: -1
+  used: false
+  online: false
   snap2_serial: -1
   snap2_chassis: -1
   snap2_location: -1
