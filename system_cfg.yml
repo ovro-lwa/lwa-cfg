@@ -34,7 +34,7 @@ LWA-001:
   longitude: -118.2809073
   elevation: 1182.97
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -44,7 +44,7 @@ LWA-001:
   pola_digitizer_channel: 0
   polb_digitizer_channel: 1
   arx_location: 15
-  arx_serial: -1
+  arx_serial: 40
   arx_address: 15
   pola_arx_channel: 3
   polb_arx_channel: 4
@@ -63,7 +63,7 @@ LWA-002:
   longitude: -118.28094359
   elevation: 1182.73
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -73,7 +73,7 @@ LWA-002:
   pola_digitizer_channel: 2
   polb_digitizer_channel: 3
   arx_location: 15
-  arx_serial: -1
+  arx_serial: 40
   arx_address: 15
   pola_arx_channel: 5
   polb_arx_channel: 6
@@ -92,7 +92,7 @@ LWA-003:
   longitude: -118.28083053
   elevation: 1183.28
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -102,7 +102,7 @@ LWA-003:
   pola_digitizer_channel: 4
   polb_digitizer_channel: 5
   arx_location: 15
-  arx_serial: -1
+  arx_serial: 40
   arx_address: 15
   pola_arx_channel: 7
   polb_arx_channel: 8
@@ -121,7 +121,7 @@ LWA-004:
   longitude: -118.28095828
   elevation: 1182.8
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -131,7 +131,7 @@ LWA-004:
   pola_digitizer_channel: 6
   polb_digitizer_channel: 7
   arx_location: 15
-  arx_serial: -1
+  arx_serial: 40
   arx_address: 15
   pola_arx_channel: 9
   polb_arx_channel: 10
@@ -150,7 +150,7 @@ LWA-005:
   longitude: -118.28072108
   elevation: 1183.14
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -160,7 +160,7 @@ LWA-005:
   pola_digitizer_channel: 8
   polb_digitizer_channel: 9
   arx_location: 15
-  arx_serial: -1
+  arx_serial: 40
   arx_address: 15
   pola_arx_channel: 11
   polb_arx_channel: 12
@@ -179,7 +179,7 @@ LWA-006:
   longitude: -118.28086951
   elevation: 1182.88
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -189,7 +189,7 @@ LWA-006:
   pola_digitizer_channel: 10
   polb_digitizer_channel: 11
   arx_location: 15
-  arx_serial: -1
+  arx_serial: 40
   arx_address: 15
   pola_arx_channel: 13
   polb_arx_channel: 14
@@ -208,7 +208,7 @@ LWA-007:
   longitude: -118.28063764
   elevation: 1183.13
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -218,7 +218,7 @@ LWA-007:
   pola_digitizer_channel: 12
   polb_digitizer_channel: 13
   arx_location: 15
-  arx_serial: -1
+  arx_serial: 40
   arx_address: 15
   pola_arx_channel: 15
   polb_arx_channel: 16
@@ -237,7 +237,7 @@ LWA-008:
   longitude: -118.28086393
   elevation: 1182.76
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -247,7 +247,7 @@ LWA-008:
   pola_digitizer_channel: 20
   polb_digitizer_channel: 21
   arx_location: 16
-  arx_serial: -1
+  arx_serial: 39
   arx_address: 16
   pola_arx_channel: 7
   polb_arx_channel: 8
@@ -266,7 +266,7 @@ LWA-009:
   longitude: -118.28087696
   elevation: 1182.63
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -276,7 +276,7 @@ LWA-009:
   pola_digitizer_channel: 14
   polb_digitizer_channel: 15
   arx_location: 16
-  arx_serial: -1
+  arx_serial: 39
   arx_address: 16
   pola_arx_channel: 1
   polb_arx_channel: 2
@@ -295,7 +295,7 @@ LWA-010:
   longitude: -118.2809784
   elevation: 1182.63
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -305,7 +305,7 @@ LWA-010:
   pola_digitizer_channel: 16
   polb_digitizer_channel: 17
   arx_location: 16
-  arx_serial: -1
+  arx_serial: 39
   arx_address: 16
   pola_arx_channel: 3
   polb_arx_channel: 4
@@ -324,7 +324,7 @@ LWA-011:
   longitude: -118.28075453
   elevation: 1182.69
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -334,7 +334,7 @@ LWA-011:
   pola_digitizer_channel: 18
   polb_digitizer_channel: 19
   arx_location: 16
-  arx_serial: -1
+  arx_serial: 39
   arx_address: 16
   pola_arx_channel: 5
   polb_arx_channel: 6
@@ -353,7 +353,7 @@ LWA-012:
   longitude: -118.28076279
   elevation: 1182.64
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -363,7 +363,7 @@ LWA-012:
   pola_digitizer_channel: 22
   polb_digitizer_channel: 23
   arx_location: 16
-  arx_serial: -1
+  arx_serial: 39
   arx_address: 16
   pola_arx_channel: 9
   polb_arx_channel: 10
@@ -382,7 +382,7 @@ LWA-013:
   longitude: -118.28085119
   elevation: 1182.49
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -392,7 +392,7 @@ LWA-013:
   pola_digitizer_channel: 2
   polb_digitizer_channel: 3
   arx_location: 18
-  arx_serial: -1
+  arx_serial: 37
   arx_address: 18
   pola_arx_channel: 9
   polb_arx_channel: 10
@@ -411,7 +411,7 @@ LWA-014:
   longitude: -118.28098498
   elevation: 1182.75
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -421,7 +421,7 @@ LWA-014:
   pola_digitizer_channel: 4
   polb_digitizer_channel: 5
   arx_location: 18
-  arx_serial: -1
+  arx_serial: 37
   arx_address: 18
   pola_arx_channel: 11
   polb_arx_channel: 12
@@ -440,7 +440,7 @@ LWA-015:
   longitude: -118.28058556
   elevation: 1182.8
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -450,7 +450,7 @@ LWA-015:
   pola_digitizer_channel: 6
   polb_digitizer_channel: 7
   arx_location: 18
-  arx_serial: -1
+  arx_serial: 37
   arx_address: 18
   pola_arx_channel: 13
   polb_arx_channel: 14
@@ -469,7 +469,7 @@ LWA-016:
   longitude: -118.28065928
   elevation: 1182.51
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -479,7 +479,7 @@ LWA-016:
   pola_digitizer_channel: 0
   polb_digitizer_channel: 1
   arx_location: 18
-  arx_serial: -1
+  arx_serial: 37
   arx_address: 18
   pola_arx_channel: 7
   polb_arx_channel: 8
@@ -498,7 +498,7 @@ LWA-017:
   longitude: -118.28083383
   elevation: 1182.52
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -508,7 +508,7 @@ LWA-017:
   pola_digitizer_channel: 8
   polb_digitizer_channel: 9
   arx_location: 18
-  arx_serial: -1
+  arx_serial: 37
   arx_address: 18
   pola_arx_channel: 15
   polb_arx_channel: 16
@@ -527,7 +527,7 @@ LWA-018:
   longitude: -118.28063016
   elevation: 1182.59
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -537,7 +537,7 @@ LWA-018:
   pola_digitizer_channel: 10
   polb_digitizer_channel: 11
   arx_location: 19
-  arx_serial: -1
+  arx_serial: 35
   arx_address: 19
   pola_arx_channel: 1
   polb_arx_channel: 2
@@ -556,7 +556,7 @@ LWA-019:
   longitude: -118.28092851
   elevation: 1182.55
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -566,7 +566,7 @@ LWA-019:
   pola_digitizer_channel: 12
   polb_digitizer_channel: 13
   arx_location: 19
-  arx_serial: -1
+  arx_serial: 35
   arx_address: 19
   pola_arx_channel: 3
   polb_arx_channel: 4
@@ -585,7 +585,7 @@ LWA-020:
   longitude: -118.28078691
   elevation: 1182.64
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -595,7 +595,7 @@ LWA-020:
   pola_digitizer_channel: 14
   polb_digitizer_channel: 15
   arx_location: 19
-  arx_serial: -1
+  arx_serial: 35
   arx_address: 19
   pola_arx_channel: 5
   polb_arx_channel: 6
@@ -614,7 +614,7 @@ LWA-021:
   longitude: -118.28052287
   elevation: 1183.28
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -624,7 +624,7 @@ LWA-021:
   pola_digitizer_channel: 16
   polb_digitizer_channel: 17
   arx_location: 19
-  arx_serial: -1
+  arx_serial: 35
   arx_address: 19
   pola_arx_channel: 7
   polb_arx_channel: 8
@@ -643,7 +643,7 @@ LWA-022:
   longitude: -118.2809067
   elevation: 1182.51
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -653,7 +653,7 @@ LWA-022:
   pola_digitizer_channel: 18
   polb_digitizer_channel: 19
   arx_location: 19
-  arx_serial: -1
+  arx_serial: 35
   arx_address: 19
   pola_arx_channel: 9
   polb_arx_channel: 10
@@ -672,7 +672,7 @@ LWA-023:
   longitude: -118.28069682
   elevation: 1182.84
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -682,7 +682,7 @@ LWA-023:
   pola_digitizer_channel: 20
   polb_digitizer_channel: 21
   arx_location: 19
-  arx_serial: -1
+  arx_serial: 35
   arx_address: 19
   pola_arx_channel: 11
   polb_arx_channel: 12
@@ -701,7 +701,7 @@ LWA-024:
   longitude: -118.28096304
   elevation: 1182.47
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -711,7 +711,7 @@ LWA-024:
   pola_digitizer_channel: 22
   polb_digitizer_channel: 23
   arx_location: 19
-  arx_serial: -1
+  arx_serial: 35
   arx_address: 19
   pola_arx_channel: 13
   polb_arx_channel: 14
@@ -730,7 +730,7 @@ LWA-025:
   longitude: -118.28061981
   elevation: 1182.96
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -740,7 +740,7 @@ LWA-025:
   pola_digitizer_channel: 24
   polb_digitizer_channel: 25
   arx_location: 19
-  arx_serial: -1
+  arx_serial: 35
   arx_address: 19
   pola_arx_channel: 15
   polb_arx_channel: 16
@@ -759,7 +759,7 @@ LWA-026:
   longitude: -118.28088169
   elevation: 1182.39
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -769,7 +769,7 @@ LWA-026:
   pola_digitizer_channel: 26
   polb_digitizer_channel: 27
   arx_location: 20
-  arx_serial: -1
+  arx_serial: 33
   arx_address: 20
   pola_arx_channel: 1
   polb_arx_channel: 2
@@ -788,7 +788,7 @@ LWA-027:
   longitude: -118.28074661
   elevation: 1182.78
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -798,7 +798,7 @@ LWA-027:
   pola_digitizer_channel: 28
   polb_digitizer_channel: 29
   arx_location: 20
-  arx_serial: -1
+  arx_serial: 33
   arx_address: 20
   pola_arx_channel: 3
   polb_arx_channel: 4
@@ -817,7 +817,7 @@ LWA-028:
   longitude: -118.28094696
   elevation: 1182.43
   used: true
-  online: false
+  online: true
   snap2_serial: 5
   snap2_chassis: 1
   snap2_location: 5
@@ -827,7 +827,7 @@ LWA-028:
   pola_digitizer_channel: 0
   polb_digitizer_channel: 1
   arx_location: 21
-  arx_serial: -1
+  arx_serial: 34
   arx_address: 21
   pola_arx_channel: 11
   polb_arx_channel: 12
@@ -846,7 +846,7 @@ LWA-029:
   longitude: -118.28056575
   elevation: 1182.41
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -856,7 +856,7 @@ LWA-029:
   pola_digitizer_channel: 30
   polb_digitizer_channel: 31
   arx_location: 20
-  arx_serial: -1
+  arx_serial: 33
   arx_address: 20
   pola_arx_channel: 5
   polb_arx_channel: 6
@@ -875,7 +875,7 @@ LWA-030:
   longitude: -118.28075585
   elevation: 1182.34
   used: true
-  online: false
+  online: true
   snap2_serial: 5
   snap2_chassis: 1
   snap2_location: 5
@@ -885,7 +885,7 @@ LWA-030:
   pola_digitizer_channel: 2
   polb_digitizer_channel: 3
   arx_location: 21
-  arx_serial: -1
+  arx_serial: 34
   arx_address: 21
   pola_arx_channel: 13
   polb_arx_channel: 14
@@ -904,7 +904,7 @@ LWA-031:
   longitude: -118.28093814
   elevation: 1182.45
   used: true
-  online: false
+  online: true
   snap2_serial: 5
   snap2_chassis: 1
   snap2_location: 5
@@ -914,7 +914,7 @@ LWA-031:
   pola_digitizer_channel: 4
   polb_digitizer_channel: 5
   arx_location: 21
-  arx_serial: -1
+  arx_serial: 34
   arx_address: 21
   pola_arx_channel: 15
   polb_arx_channel: 16
@@ -933,7 +933,7 @@ LWA-032:
   longitude: -118.28090965
   elevation: 1182.81
   used: true
-  online: false
+  online: true
   snap2_serial: 5
   snap2_chassis: 1
   snap2_location: 5
@@ -943,7 +943,7 @@ LWA-032:
   pola_digitizer_channel: 6
   polb_digitizer_channel: 7
   arx_location: 22
-  arx_serial: -1
+  arx_serial: 30
   arx_address: 22
   pola_arx_channel: 1
   polb_arx_channel: 2
@@ -1107,7 +1107,7 @@ LWA-038:
   longitude: -118.28104146
   elevation: 1182.42
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -1117,7 +1117,7 @@ LWA-038:
   pola_digitizer_channel: 24
   polb_digitizer_channel: 25
   arx_location: 16
-  arx_serial: -1
+  arx_serial: 39
   arx_address: 16
   pola_arx_channel: 11
   polb_arx_channel: 12
@@ -1165,7 +1165,7 @@ LWA-040:
   longitude: -118.28113573
   elevation: 1182.67
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -1175,7 +1175,7 @@ LWA-040:
   pola_digitizer_channel: 26
   polb_digitizer_channel: 27
   arx_location: 16
-  arx_serial: -1
+  arx_serial: 39
   arx_address: 16
   pola_arx_channel: 13
   polb_arx_channel: 14
@@ -1194,7 +1194,7 @@ LWA-041:
   longitude: -118.28127733
   elevation: 1182.88
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -1204,7 +1204,7 @@ LWA-041:
   pola_digitizer_channel: 28
   polb_digitizer_channel: 29
   arx_location: 16
-  arx_serial: -1
+  arx_serial: 39
   arx_address: 16
   pola_arx_channel: 15
   polb_arx_channel: 16
@@ -1223,7 +1223,7 @@ LWA-042:
   longitude: -118.28108224
   elevation: 1182.68
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -1233,7 +1233,7 @@ LWA-042:
   pola_digitizer_channel: 30
   polb_digitizer_channel: 31
   arx_location: 17
-  arx_serial: -1
+  arx_serial: 38
   arx_address: 17
   pola_arx_channel: 1
   polb_arx_channel: 2
@@ -1252,7 +1252,7 @@ LWA-043:
   longitude: -118.28118544
   elevation: 1182.93
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -1262,7 +1262,7 @@ LWA-043:
   pola_digitizer_channel: 0
   polb_digitizer_channel: 1
   arx_location: 17
-  arx_serial: -1
+  arx_serial: 38
   arx_address: 17
   pola_arx_channel: 3
   polb_arx_channel: 4
@@ -1281,7 +1281,7 @@ LWA-044:
   longitude: -118.28106615
   elevation: 1182.77
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -1291,7 +1291,7 @@ LWA-044:
   pola_digitizer_channel: 2
   polb_digitizer_channel: 3
   arx_location: 17
-  arx_serial: -1
+  arx_serial: 38
   arx_address: 17
   pola_arx_channel: 5
   polb_arx_channel: 6
@@ -1310,7 +1310,7 @@ LWA-045:
   longitude: -118.2811983
   elevation: 1182.83
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -1320,7 +1320,7 @@ LWA-045:
   pola_digitizer_channel: 4
   polb_digitizer_channel: 5
   arx_location: 17
-  arx_serial: -1
+  arx_serial: 38
   arx_address: 17
   pola_arx_channel: 7
   polb_arx_channel: 8
@@ -1339,7 +1339,7 @@ LWA-046:
   longitude: -118.28103459
   elevation: 1182.7
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -1349,7 +1349,7 @@ LWA-046:
   pola_digitizer_channel: 6
   polb_digitizer_channel: 7
   arx_location: 17
-  arx_serial: -1
+  arx_serial: 38
   arx_address: 17
   pola_arx_channel: 9
   polb_arx_channel: 10
@@ -1368,7 +1368,7 @@ LWA-047:
   longitude: -118.28120409
   elevation: 1182.78
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -1378,7 +1378,7 @@ LWA-047:
   pola_digitizer_channel: 8
   polb_digitizer_channel: 9
   arx_location: 17
-  arx_serial: -1
+  arx_serial: 38
   arx_address: 17
   pola_arx_channel: 11
   polb_arx_channel: 12
@@ -1397,7 +1397,7 @@ LWA-048:
   longitude: -118.28125213
   elevation: 1182.6
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -1407,7 +1407,7 @@ LWA-048:
   pola_digitizer_channel: 0
   polb_digitizer_channel: 1
   arx_location: 20
-  arx_serial: -1
+  arx_serial: 33
   arx_address: 20
   pola_arx_channel: 7
   polb_arx_channel: 8
@@ -1426,7 +1426,7 @@ LWA-049:
   longitude: -118.28117472
   elevation: 1182.58
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -1436,7 +1436,7 @@ LWA-049:
   pola_digitizer_channel: 2
   polb_digitizer_channel: 3
   arx_location: 20
-  arx_serial: -1
+  arx_serial: 33
   arx_address: 20
   pola_arx_channel: 9
   polb_arx_channel: 10
@@ -1455,7 +1455,7 @@ LWA-050:
   longitude: -118.28112354
   elevation: 1182.6
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -1465,7 +1465,7 @@ LWA-050:
   pola_digitizer_channel: 4
   polb_digitizer_channel: 5
   arx_location: 20
-  arx_serial: -1
+  arx_serial: 33
   arx_address: 20
   pola_arx_channel: 11
   polb_arx_channel: 12
@@ -1484,7 +1484,7 @@ LWA-051:
   longitude: -118.28123929
   elevation: 1182.68
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -1494,7 +1494,7 @@ LWA-051:
   pola_digitizer_channel: 6
   polb_digitizer_channel: 7
   arx_location: 20
-  arx_serial: -1
+  arx_serial: 33
   arx_address: 20
   pola_arx_channel: 13
   polb_arx_channel: 14
@@ -1513,7 +1513,7 @@ LWA-052:
   longitude: -118.28115457
   elevation: 1182.58
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -1523,7 +1523,7 @@ LWA-052:
   pola_digitizer_channel: 8
   polb_digitizer_channel: 9
   arx_location: 20
-  arx_serial: -1
+  arx_serial: 33
   arx_address: 20
   pola_arx_channel: 15
   polb_arx_channel: 16
@@ -1542,7 +1542,7 @@ LWA-053:
   longitude: -118.28115603
   elevation: 1182.67
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -1552,7 +1552,7 @@ LWA-053:
   pola_digitizer_channel: 10
   polb_digitizer_channel: 11
   arx_location: 21
-  arx_serial: -1
+  arx_serial: 34
   arx_address: 21
   pola_arx_channel: 1
   polb_arx_channel: 2
@@ -1571,7 +1571,7 @@ LWA-054:
   longitude: -118.28117316
   elevation: 1182.68
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -1581,7 +1581,7 @@ LWA-054:
   pola_digitizer_channel: 14
   polb_digitizer_channel: 15
   arx_location: 21
-  arx_serial: -1
+  arx_serial: 34
   arx_address: 21
   pola_arx_channel: 5
   polb_arx_channel: 6
@@ -1600,7 +1600,7 @@ LWA-055:
   longitude: -118.28112517
   elevation: 1182.58
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -1610,7 +1610,7 @@ LWA-055:
   pola_digitizer_channel: 16
   polb_digitizer_channel: 17
   arx_location: 21
-  arx_serial: -1
+  arx_serial: 34
   arx_address: 21
   pola_arx_channel: 7
   polb_arx_channel: 8
@@ -1629,7 +1629,7 @@ LWA-056:
   longitude: -118.28123486
   elevation: 1182.5
   used: true
-  online: false
+  online: true
   snap2_serial: 5
   snap2_chassis: 1
   snap2_location: 5
@@ -1639,7 +1639,7 @@ LWA-056:
   pola_digitizer_channel: 12
   polb_digitizer_channel: 13
   arx_location: 22
-  arx_serial: -1
+  arx_serial: 30
   arx_address: 22
   pola_arx_channel: 7
   polb_arx_channel: 8
@@ -1658,7 +1658,7 @@ LWA-057:
   longitude: -118.28117452
   elevation: 1182.35
   used: true
-  online: false
+  online: true
   snap2_serial: 5
   snap2_chassis: 1
   snap2_location: 5
@@ -1668,7 +1668,7 @@ LWA-057:
   pola_digitizer_channel: 14
   polb_digitizer_channel: 15
   arx_location: 22
-  arx_serial: -1
+  arx_serial: 30
   arx_address: 22
   pola_arx_channel: 9
   polb_arx_channel: 10
@@ -1687,7 +1687,7 @@ LWA-058:
   longitude: -118.28106356
   elevation: 1182.29
   used: true
-  online: false
+  online: true
   snap2_serial: 5
   snap2_chassis: 1
   snap2_location: 5
@@ -1697,7 +1697,7 @@ LWA-058:
   pola_digitizer_channel: 16
   polb_digitizer_channel: 17
   arx_location: 22
-  arx_serial: -1
+  arx_serial: 30
   arx_address: 22
   pola_arx_channel: 11
   polb_arx_channel: 12
@@ -1716,7 +1716,7 @@ LWA-059:
   longitude: -118.28117943
   elevation: 1182.35
   used: true
-  online: false
+  online: true
   snap2_serial: 5
   snap2_chassis: 1
   snap2_location: 5
@@ -1726,7 +1726,7 @@ LWA-059:
   pola_digitizer_channel: 18
   polb_digitizer_channel: 19
   arx_location: 22
-  arx_serial: -1
+  arx_serial: 30
   arx_address: 22
   pola_arx_channel: 13
   polb_arx_channel: 14
@@ -1745,7 +1745,7 @@ LWA-060:
   longitude: -118.2810893
   elevation: 1182.42
   used: true
-  online: false
+  online: true
   snap2_serial: 5
   snap2_chassis: 1
   snap2_location: 5
@@ -1755,7 +1755,7 @@ LWA-060:
   pola_digitizer_channel: 8
   polb_digitizer_channel: 9
   arx_location: 22
-  arx_serial: -1
+  arx_serial: 30
   arx_address: 22
   pola_arx_channel: 3
   polb_arx_channel: 4
@@ -1774,7 +1774,7 @@ LWA-061:
   longitude: -118.28125302
   elevation: 1182.49
   used: true
-  online: false
+  online: true
   snap2_serial: 5
   snap2_chassis: 1
   snap2_location: 5
@@ -1784,7 +1784,7 @@ LWA-061:
   pola_digitizer_channel: 20
   polb_digitizer_channel: 21
   arx_location: 22
-  arx_serial: -1
+  arx_serial: 30
   arx_address: 22
   pola_arx_channel: 15
   polb_arx_channel: 16
@@ -1803,7 +1803,7 @@ LWA-062:
   longitude: -118.28103203
   elevation: 1182.48
   used: true
-  online: false
+  online: true
   snap2_serial: 5
   snap2_chassis: 1
   snap2_location: 5
@@ -1813,7 +1813,7 @@ LWA-062:
   pola_digitizer_channel: 22
   polb_digitizer_channel: 23
   arx_location: 23
-  arx_serial: -1
+  arx_serial: 32
   arx_address: 23
   pola_arx_channel: 1
   polb_arx_channel: 2
@@ -1832,7 +1832,7 @@ LWA-063:
   longitude: -118.2811979
   elevation: 1182.59
   used: true
-  online: false
+  online: true
   snap2_serial: 5
   snap2_chassis: 1
   snap2_location: 5
@@ -1842,7 +1842,7 @@ LWA-063:
   pola_digitizer_channel: 10
   polb_digitizer_channel: 11
   arx_location: 22
-  arx_serial: -1
+  arx_serial: 30
   arx_address: 22
   pola_arx_channel: 5
   polb_arx_channel: 6
@@ -1861,7 +1861,7 @@ LWA-064:
   longitude: -118.28114169
   elevation: 1182.58
   used: true
-  online: false
+  online: true
   snap2_serial: 5
   snap2_chassis: 1
   snap2_location: 5
@@ -1871,7 +1871,7 @@ LWA-064:
   pola_digitizer_channel: 24
   polb_digitizer_channel: 25
   arx_location: 23
-  arx_serial: -1
+  arx_serial: 32
   arx_address: 23
   pola_arx_channel: 3
   polb_arx_channel: 4
@@ -2064,7 +2064,7 @@ LWA-071:
   longitude: -118.28136844
   elevation: 1182.89
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -2074,7 +2074,7 @@ LWA-071:
   pola_digitizer_channel: 10
   polb_digitizer_channel: 11
   arx_location: 17
-  arx_serial: -1
+  arx_serial: 38
   arx_address: 17
   pola_arx_channel: 13
   polb_arx_channel: 14
@@ -2122,7 +2122,7 @@ LWA-073:
   longitude: -118.28132217
   elevation: 1182.84
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -2132,7 +2132,7 @@ LWA-073:
   pola_digitizer_channel: 12
   polb_digitizer_channel: 13
   arx_location: 17
-  arx_serial: -1
+  arx_serial: 38
   arx_address: 17
   pola_arx_channel: 15
   polb_arx_channel: 16
@@ -2151,7 +2151,7 @@ LWA-074:
   longitude: -118.28129209
   elevation: 1182.82
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -2161,7 +2161,7 @@ LWA-074:
   pola_digitizer_channel: 14
   polb_digitizer_channel: 15
   arx_location: 18
-  arx_serial: -1
+  arx_serial: 37
   arx_address: 18
   pola_arx_channel: 1
   polb_arx_channel: 2
@@ -2180,7 +2180,7 @@ LWA-075:
   longitude: -118.28142573
   elevation: 1182.67
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -2190,7 +2190,7 @@ LWA-075:
   pola_digitizer_channel: 16
   polb_digitizer_channel: 17
   arx_location: 18
-  arx_serial: -1
+  arx_serial: 37
   arx_address: 18
   pola_arx_channel: 3
   polb_arx_channel: 4
@@ -2238,7 +2238,7 @@ LWA-077:
   longitude: -118.28132434
   elevation: 1182.67
   used: true
-  online: false
+  online: true
   snap2_serial: 10
   snap2_chassis: 1
   snap2_location: 3
@@ -2248,7 +2248,7 @@ LWA-077:
   pola_digitizer_channel: 18
   polb_digitizer_channel: 19
   arx_location: 18
-  arx_serial: -1
+  arx_serial: 37
   arx_address: 18
   pola_arx_channel: 5
   polb_arx_channel: 6
@@ -2325,7 +2325,7 @@ LWA-080:
   longitude: -118.28131152
   elevation: 1182.76
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -2335,7 +2335,7 @@ LWA-080:
   pola_digitizer_channel: 12
   polb_digitizer_channel: 13
   arx_location: 21
-  arx_serial: -1
+  arx_serial: 34
   arx_address: 21
   pola_arx_channel: 3
   polb_arx_channel: 4
@@ -2441,7 +2441,7 @@ LWA-084:
   longitude: -118.28128127
   elevation: 1182.85
   used: true
-  online: false
+  online: true
   snap2_serial: 7
   snap2_chassis: 1
   snap2_location: 4
@@ -2451,7 +2451,7 @@ LWA-084:
   pola_digitizer_channel: 18
   polb_digitizer_channel: 19
   arx_location: 21
-  arx_serial: -1
+  arx_serial: 34
   arx_address: 21
   pola_arx_channel: 9
   polb_arx_channel: 10
@@ -2470,7 +2470,7 @@ LWA-085:
   longitude: -118.28139816
   elevation: 1182.77
   used: true
-  online: false
+  online: true
   snap2_serial: 5
   snap2_chassis: 1
   snap2_location: 5
@@ -2480,7 +2480,7 @@ LWA-085:
   pola_digitizer_channel: 26
   polb_digitizer_channel: 27
   arx_location: 23
-  arx_serial: -1
+  arx_serial: 32
   arx_address: 23
   pola_arx_channel: 5
   polb_arx_channel: 6
@@ -2499,7 +2499,7 @@ LWA-086:
   longitude: -118.2813026
   elevation: 1182.66
   used: true
-  online: false
+  online: true
   snap2_serial: 5
   snap2_chassis: 1
   snap2_location: 5
@@ -2509,7 +2509,7 @@ LWA-086:
   pola_digitizer_channel: 28
   polb_digitizer_channel: 29
   arx_location: 23
-  arx_serial: -1
+  arx_serial: 32
   arx_address: 23
   pola_arx_channel: 7
   polb_arx_channel: 8
@@ -2528,7 +2528,7 @@ LWA-087:
   longitude: -118.28145393
   elevation: 1182.45
   used: true
-  online: false
+  online: true
   snap2_serial: 5
   snap2_chassis: 1
   snap2_location: 5
@@ -2538,7 +2538,7 @@ LWA-087:
   pola_digitizer_channel: 30
   polb_digitizer_channel: 31
   arx_location: 23
-  arx_serial: -1
+  arx_serial: 32
   arx_address: 23
   pola_arx_channel: 9
   polb_arx_channel: 10
@@ -2586,7 +2586,7 @@ LWA-089:
   longitude: -118.28146875
   elevation: 1182.49
   used: true
-  online: false
+  online: true
   snap2_serial: 5
   snap2_chassis: 1
   snap2_location: 5
@@ -2596,7 +2596,7 @@ LWA-089:
   pola_digitizer_channel: 2
   polb_digitizer_channel: 3
   arx_location: 23
-  arx_serial: -1
+  arx_serial: 32
   arx_address: 23
   pola_arx_channel: 13
   polb_arx_channel: 14
@@ -2615,7 +2615,7 @@ LWA-090:
   longitude: -118.28138177
   elevation: 1182.59
   used: true
-  online: false
+  online: true
   snap2_serial: 5
   snap2_chassis: 1
   snap2_location: 5
@@ -2625,7 +2625,7 @@ LWA-090:
   pola_digitizer_channel: 4
   polb_digitizer_channel: 5
   arx_location: 23
-  arx_serial: -1
+  arx_serial: 32
   arx_address: 23
   pola_arx_channel: 15
   polb_arx_channel: 16
@@ -2789,7 +2789,7 @@ LWA-096:
   longitude: -118.28144514
   elevation: 1182.64
   used: true
-  online: false
+  online: true
   snap2_serial: 5
   snap2_chassis: 1
   snap2_location: 5
@@ -2799,7 +2799,7 @@ LWA-096:
   pola_digitizer_channel: 0
   polb_digitizer_channel: 1
   arx_location: 23
-  arx_serial: -1
+  arx_serial: 32
   arx_address: 23
   pola_arx_channel: 11
   polb_arx_channel: 12
@@ -5341,7 +5341,7 @@ LWA-184:
   longitude: -118.28188019
   elevation: 1182.87
   used: true
-  online: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -5370,7 +5370,7 @@ LWA-185:
   longitude: -118.28189389
   elevation: 1182.96
   used: true
-  online: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -5399,7 +5399,7 @@ LWA-186:
   longitude: -118.2820626
   elevation: 1182.87
   used: true
-  online: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -5428,7 +5428,7 @@ LWA-187:
   longitude: -118.28198704
   elevation: 1182.82
   used: true
-  online: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -5486,7 +5486,7 @@ LWA-189:
   longitude: -118.28200525
   elevation: 1182.71
   used: true
-  online: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -5515,7 +5515,7 @@ LWA-190:
   longitude: -118.28189495
   elevation: 1182.66
   used: true
-  online: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -5544,7 +5544,7 @@ LWA-191:
   longitude: -118.28198366
   elevation: 1182.71
   used: true
-  online: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -5573,7 +5573,7 @@ LWA-192:
   longitude: -118.28197328
   elevation: 1182.8
   used: true
-  online: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -6472,7 +6472,7 @@ LWA-223:
   longitude: -118.28235668
   elevation: 1182.8
   used: true
-  online: false
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -6994,7 +6994,7 @@ LWA-241:
   longitude: -118.28247819
   elevation: 1183.14
   used: true
-  online: false
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -7023,7 +7023,7 @@ LWA-242:
   longitude: -118.28257664
   elevation: 1183.28
   used: true
-  online: false
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -7081,7 +7081,7 @@ LWA-244:
   longitude: -118.28243821
   elevation: 1183.03
   used: true
-  online: false
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -7110,7 +7110,7 @@ LWA-245:
   longitude: -118.28277593
   elevation: 1183.46
   used: true
-  online: false
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -7139,7 +7139,7 @@ LWA-246:
   longitude: -118.28265759
   elevation: 1183.31
   used: true
-  online: false
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -7197,7 +7197,7 @@ LWA-248:
   longitude: -118.28251398
   elevation: 1182.96
   used: true
-  online: false
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -7226,7 +7226,7 @@ LWA-249:
   longitude: -118.28258531
   elevation: 1183.09
   used: true
-  online: false
+  online: true
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
@@ -7329,8 +7329,8 @@ LWA-252:
   polb_arx_channel: 6
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 295
+  polb_fee: 543
   pola_fpga_num: 52
   polb_fpga_num: 53
   corr_num: 186
@@ -7400,7 +7400,7 @@ LWA-255:
   longitude: -118.28465361
   elevation: 1184.06
   used: true
-  online: false
+  online: true
   snap2_serial: 12
   snap2_chassis: 1
   snap2_location: 2
@@ -7410,14 +7410,14 @@ LWA-255:
   pola_digitizer_channel: 0
   polb_digitizer_channel: 1
   arx_location: 15
-  arx_serial: -1
+  arx_serial: 40
   arx_address: 15
   pola_arx_channel: 1
   polb_arx_channel: 2
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 539
+  polb_fee: 1655
   pola_fpga_num: 2
   polb_fpga_num: 3
   corr_num: 33
@@ -7445,8 +7445,8 @@ LWA-256:
   polb_arx_channel: 6
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 626
+  polb_fee: 363
   pola_fpga_num: 54
   polb_fpga_num: 55
   corr_num: 347
@@ -7517,11 +7517,11 @@ LWA-259:
   elevation: 1184.91
   used: true
   online: false
-  snap2_serial: 12
+  snap2_serial: 13
   snap2_chassis: 1
-  snap2_location: 2
-  snap2_hostname: snap02.sas.pvt
-  snap2_mac: 02:00:d4:5b:e4:75
+  snap2_location: 1
+  snap2_hostname: snap01.sas.pvt
+  snap2_mac: 00:00:4e:e4:ef:75
   fmc: 0
   pola_digitizer_channel: 0
   polb_digitizer_channel: 1
@@ -7536,7 +7536,7 @@ LWA-259:
   polb_fee: -1
   pola_fpga_num: 2
   polb_fpga_num: 3
-  corr_num: 33
+  corr_num: 1
   notes: ""
 LWA-260:
   antname: LWA-260
