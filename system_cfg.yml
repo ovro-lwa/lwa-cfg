@@ -4429,8 +4429,8 @@ LWA-152:
   polb_arx_channel: 14
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: 516
-  polb_fee: 593
+  pola_fee: 123
+  polb_fee: 394
   pola_fpga_num: 14
   polb_fpga_num: 15
   corr_num: 231
@@ -4939,7 +4939,7 @@ LWA-170:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 0
   pola_digitizer_channel: 2
@@ -4968,7 +4968,7 @@ LWA-171:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 0
   pola_digitizer_channel: 4
@@ -5026,7 +5026,7 @@ LWA-173:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 0
   pola_digitizer_channel: 6
@@ -5084,7 +5084,7 @@ LWA-175:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 0
   pola_digitizer_channel: 8
@@ -5113,7 +5113,7 @@ LWA-176:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 0
   pola_digitizer_channel: 10
@@ -5142,7 +5142,7 @@ LWA-177:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 0
   pola_digitizer_channel: 2
@@ -5200,7 +5200,7 @@ LWA-179:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 0
   pola_digitizer_channel: 4
@@ -5229,7 +5229,7 @@ LWA-180:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 0
   pola_digitizer_channel: 6
@@ -5258,7 +5258,7 @@ LWA-181:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 0
   pola_digitizer_channel: 8
@@ -5316,7 +5316,7 @@ LWA-183:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 0
   pola_digitizer_channel: 10
@@ -5341,7 +5341,7 @@ LWA-184:
   longitude: -118.28188019
   elevation: 1182.87
   used: true
-  online: false
+  online: true
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -5370,7 +5370,7 @@ LWA-185:
   longitude: -118.28189389
   elevation: 1182.96
   used: true
-  online: false
+  online: true
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -5399,7 +5399,7 @@ LWA-186:
   longitude: -118.2820626
   elevation: 1182.87
   used: true
-  online: false
+  online: true
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -5428,7 +5428,7 @@ LWA-187:
   longitude: -118.28198704
   elevation: 1182.82
   used: true
-  online: false
+  online: true
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -5486,7 +5486,7 @@ LWA-189:
   longitude: -118.28200525
   elevation: 1182.71
   used: true
-  online: false
+  online: true
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -5515,7 +5515,7 @@ LWA-190:
   longitude: -118.28189495
   elevation: 1182.66
   used: true
-  online: false
+  online: true
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -5544,7 +5544,7 @@ LWA-191:
   longitude: -118.28198366
   elevation: 1182.71
   used: true
-  online: false
+  online: true
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -5573,7 +5573,7 @@ LWA-192:
   longitude: -118.28197328
   elevation: 1182.8
   used: true
-  online: false
+  online: true
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -5896,7 +5896,7 @@ LWA-203:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 0
   pola_digitizer_channel: 12
@@ -5925,7 +5925,7 @@ LWA-204:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 0
   pola_digitizer_channel: 14
@@ -5954,7 +5954,7 @@ LWA-205:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 0
   pola_digitizer_channel: 16
@@ -5983,7 +5983,7 @@ LWA-206:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 0
   pola_digitizer_channel: 18
@@ -6012,7 +6012,7 @@ LWA-207:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 0
   pola_digitizer_channel: 20
@@ -6041,7 +6041,7 @@ LWA-208:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 0
   pola_digitizer_channel: 22
@@ -6070,7 +6070,7 @@ LWA-209:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 0
   pola_digitizer_channel: 24
@@ -6099,7 +6099,7 @@ LWA-210:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 0
   pola_digitizer_channel: 26
@@ -6128,7 +6128,7 @@ LWA-211:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 0
   pola_digitizer_channel: 12
@@ -6157,7 +6157,7 @@ LWA-212:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 0
   pola_digitizer_channel: 14
@@ -6186,7 +6186,7 @@ LWA-213:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 0
   pola_digitizer_channel: 16
@@ -6215,7 +6215,7 @@ LWA-214:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 0
   pola_digitizer_channel: 18
@@ -6244,7 +6244,7 @@ LWA-215:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 0
   pola_digitizer_channel: 20
@@ -6302,7 +6302,7 @@ LWA-217:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 0
   pola_digitizer_channel: 24
@@ -6331,7 +6331,7 @@ LWA-218:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 0
   pola_digitizer_channel: 26
@@ -6360,7 +6360,7 @@ LWA-219:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 0
   pola_digitizer_channel: 28
@@ -6418,7 +6418,7 @@ LWA-221:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 0
   pola_digitizer_channel: 30
@@ -6476,7 +6476,7 @@ LWA-223:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 1
   pola_digitizer_channel: 0
@@ -6546,8 +6546,8 @@ LWA-225:
   polb_arx_channel: 6
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: 216
-  polb_fee: 1353
+  pola_fee: 124
+  polb_fee: 652
   pola_fpga_num: 50
   polb_fpga_num: 51
   corr_num: 281
@@ -6621,7 +6621,7 @@ LWA-228:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 0
   pola_digitizer_channel: 30
@@ -6650,7 +6650,7 @@ LWA-229:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 1
   pola_digitizer_channel: 0
@@ -6679,7 +6679,7 @@ LWA-230:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 0
   pola_digitizer_channel: 28
@@ -6708,7 +6708,7 @@ LWA-231:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 1
   pola_digitizer_channel: 2
@@ -6737,7 +6737,7 @@ LWA-232:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 1
   pola_digitizer_channel: 4
@@ -6766,7 +6766,7 @@ LWA-233:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 1
   pola_digitizer_channel: 6
@@ -6795,7 +6795,7 @@ LWA-234:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 0
   pola_digitizer_channel: 0
@@ -6824,7 +6824,7 @@ LWA-235:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 1
   pola_digitizer_channel: 8
@@ -6853,7 +6853,7 @@ LWA-236:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 1
   pola_digitizer_channel: 10
@@ -6882,7 +6882,7 @@ LWA-237:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 1
   pola_digitizer_channel: 12
@@ -6911,7 +6911,7 @@ LWA-238:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 1
   pola_digitizer_channel: 14
@@ -6940,7 +6940,7 @@ LWA-239:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 1
   pola_digitizer_channel: 16
@@ -6969,7 +6969,7 @@ LWA-240:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 1
   pola_digitizer_channel: 18
@@ -6998,7 +6998,7 @@ LWA-241:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 1
   pola_digitizer_channel: 2
@@ -7027,7 +7027,7 @@ LWA-242:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 1
   pola_digitizer_channel: 4
@@ -7056,7 +7056,7 @@ LWA-243:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 0
   pola_digitizer_channel: 22
@@ -7085,7 +7085,7 @@ LWA-244:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 1
   pola_digitizer_channel: 6
@@ -7114,7 +7114,7 @@ LWA-245:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 1
   pola_digitizer_channel: 8
@@ -7143,7 +7143,7 @@ LWA-246:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 1
   pola_digitizer_channel: 10
@@ -7172,7 +7172,7 @@ LWA-247:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 0
   pola_digitizer_channel: 0
@@ -7201,7 +7201,7 @@ LWA-248:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 1
   pola_digitizer_channel: 12
@@ -7230,7 +7230,7 @@ LWA-249:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 1
   pola_digitizer_channel: 14
@@ -7259,7 +7259,7 @@ LWA-250:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 1
   pola_digitizer_channel: 16
@@ -7288,7 +7288,7 @@ LWA-251:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 1
   pola_digitizer_channel: 18
@@ -7375,7 +7375,7 @@ LWA-254:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 1
   pola_digitizer_channel: 20
@@ -7433,7 +7433,7 @@ LWA-256:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 1
   pola_digitizer_channel: 20
@@ -7578,7 +7578,7 @@ LWA-261:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 1
   pola_digitizer_channel: 22
@@ -7665,7 +7665,7 @@ LWA-264:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 1
   pola_digitizer_channel: 24
@@ -8329,26 +8329,26 @@ LWA-287:
   elevation: 1179.9
   used: true
   online: false
-  snap2_serial: 1
+  snap2_serial: 8
   snap2_chassis: 2
-  snap2_location: 9
-  snap2_hostname: snap09.sas.pvt
-  snap2_mac: 02:00:ce:ca:e4:6f
+  snap2_location: 7
+  snap2_hostname: snap07.sas.pvt
+  snap2_mac: 00:00:d6:de:e4:75
   fmc: 1
-  pola_digitizer_channel: 22
-  polb_digitizer_channel: 23
-  arx_location: 12
+  pola_digitizer_channel: 28
+  polb_digitizer_channel: 29
+  arx_location: 11
   arx_serial: -1
-  arx_address: 12
+  arx_address: 11
   pola_arx_channel: 13
   polb_arx_channel: 14
   pola_resistance: 999999
   polb_resistance: 999999
   pola_fee: -1
   polb_fee: -1
-  pola_fpga_num: 52
-  polb_fpga_num: 53
-  corr_num: 282
+  pola_fpga_num: 62
+  polb_fpga_num: 63
+  corr_num: 223
   notes: ""
 LWA-288:
   antname: LWA-288
@@ -8622,7 +8622,7 @@ LWA-297:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 1
   pola_digitizer_channel: 22
@@ -8674,7 +8674,7 @@ LWA-299:
   antnumber: 299
   latitude: 37.236552618199994
   longitude: -118.2777585692
-  elevation: 999999
+  elevation: 1182.16
   used: true
   online: false
   snap2_serial: 6
@@ -8703,13 +8703,13 @@ LWA-300:
   antnumber: 300
   latitude: 37.23785228719999
   longitude: -118.27720626920001
-  elevation: 999999
+  elevation: 1182.22
   used: true
   online: false
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 1
   pola_digitizer_channel: 26
@@ -8732,7 +8732,7 @@ LWA-301:
   antnumber: 301
   latitude: 37.23612725219999
   longitude: -118.2874094692
-  elevation: 999999
+  elevation: 1180.57
   used: true
   online: false
   snap2_serial: 12
@@ -8761,7 +8761,7 @@ LWA-302:
   antnumber: 302
   latitude: 37.23393297319999
   longitude: -118.2856157572
-  elevation: 999999
+  elevation: 1182
   used: true
   online: false
   snap2_serial: 10
@@ -8825,7 +8825,7 @@ LWA-304:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 1
   pola_digitizer_channel: 28
@@ -8848,7 +8848,7 @@ LWA-305:
   antnumber: 305
   latitude: 37.23994080119999
   longitude: -118.2863847692
-  elevation: 999999
+  elevation: 1183.17
   used: true
   online: false
   snap2_serial: 12
@@ -8877,7 +8877,7 @@ LWA-306:
   antnumber: 306
   latitude: 37.238325902199996
   longitude: -118.2877316942
-  elevation: 999999
+  elevation: 1180.92
   used: true
   online: false
   snap2_serial: 12
@@ -9144,7 +9144,7 @@ LWA-315:
   snap2_serial: 4
   snap2_chassis: 2
   snap2_location: 11
-  snap2_hostname: snap011.sas.pvt
+  snap2_hostname: snap11.sas.pvt
   snap2_mac: 00:00:b3:fc:e4:6f
   fmc: 1
   pola_digitizer_channel: 30
@@ -9225,7 +9225,7 @@ LWA-318:
   antnumber: 318
   latitude: 37.237574445199996
   longitude: -118.2847327342
-  elevation: 999999
+  elevation: 1182.62
   used: true
   online: false
   snap2_serial: 12
@@ -9312,7 +9312,7 @@ LWA-321:
   antnumber: 321
   latitude: 37.2462706235185
   longitude: -118.287577194944
-  elevation: 1184.54
+  elevation: 1185.1
   used: true
   online: false
   snap2_serial: 13
@@ -9341,7 +9341,7 @@ LWA-322:
   antnumber: 322
   latitude: 37.2487495192
   longitude: -118.2894811692
-  elevation: 999999
+  elevation: 1185.01
   used: true
   online: false
   snap2_serial: 3
@@ -9370,7 +9370,7 @@ LWA-323:
   antnumber: 323
   latitude: 37.241611864199996
   longitude: -118.27931606920001
-  elevation: 999999
+  elevation: 1183.34
   used: true
   online: false
   snap2_serial: 10
@@ -9399,7 +9399,7 @@ LWA-324:
   antnumber: 324
   latitude: 37.2399473792
   longitude: -118.2786074342
-  elevation: 999999
+  elevation: 1182.97
   used: true
   online: false
   snap2_serial: 7
@@ -9486,7 +9486,7 @@ LWA-327:
   antnumber: 327
   latitude: 37.24756676919999
   longitude: -118.2864927512
-  elevation: 999999
+  elevation: 1185.05
   used: true
   online: false
   snap2_serial: 13
@@ -9515,7 +9515,7 @@ LWA-328:
   antnumber: 328
   latitude: 37.24923287119999
   longitude: -118.2867668022
-  elevation: 999999
+  elevation: 1185.47
   used: true
   online: false
   snap2_serial: 5
@@ -9927,7 +9927,7 @@ LWA-342:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 1
   pola_digitizer_channel: 24
@@ -10043,7 +10043,7 @@ LWA-346:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 1
   pola_digitizer_channel: 26
@@ -10124,42 +10124,42 @@ LWA-349:
   antnumber: 349
   latitude: 37.24506103019999
   longitude: -118.2909214162
-  elevation: 999999
+  elevation: 1184.23
   used: true
   online: false
-  snap2_serial: 8
+  snap2_serial: 1
   snap2_chassis: 2
-  snap2_location: 7
-  snap2_hostname: snap07.sas.pvt
-  snap2_mac: 00:00:d6:de:e4:75
+  snap2_location: 9
+  snap2_hostname: snap09.sas.pvt
+  snap2_mac: 02:00:ce:ca:e4:6f
   fmc: 1
-  pola_digitizer_channel: 28
-  polb_digitizer_channel: 29
-  arx_location: 11
+  pola_digitizer_channel: 22
+  polb_digitizer_channel: 23
+  arx_location: 12
   arx_serial: -1
-  arx_address: 11
+  arx_address: 12
   pola_arx_channel: 13
   polb_arx_channel: 14
   pola_resistance: 999999
   polb_resistance: 999999
   pola_fee: -1
   polb_fee: -1
-  pola_fpga_num: 62
-  polb_fpga_num: 63
-  corr_num: 223
+  pola_fpga_num: 52
+  polb_fpga_num: 53
+  corr_num: 282
   notes: ""
 LWA-350:
   antname: LWA-350
   antnumber: 350
   latitude: 37.24661519319999
   longitude: -118.2893410982
-  elevation: 999999
+  elevation: 1185.05
   used: true
   online: false
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 1
   pola_digitizer_channel: 28
@@ -10240,7 +10240,7 @@ LWA-353:
   antnumber: 353
   latitude: 37.249456382199995
   longitude: -118.2948412692
-  elevation: 999999
+  elevation: 1184.46
   used: true
   online: false
   snap2_serial: 13
@@ -10269,7 +10269,7 @@ LWA-354:
   antnumber: 354
   latitude: 37.249074793199995
   longitude: -118.2918006692
-  elevation: 999999
+  elevation: 1185.78
   used: true
   online: false
   snap2_serial: 12
@@ -10333,7 +10333,7 @@ LWA-356:
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
-  snap2_hostname: snap010.sas.pvt
+  snap2_hostname: snap10.sas.pvt
   snap2_mac: 00:00:41:1e:e4:75
   fmc: 1
   pola_digitizer_channel: 30
@@ -10559,7 +10559,7 @@ LWA-364:
   antnumber: 364
   latitude: 37.234643031199994
   longitude: -118.2815506902
-  elevation: 1181.01
+  elevation: 1180.95
   used: true
   online: false
   snap2_serial: 7
