@@ -3601,7 +3601,7 @@ LWA-124:
   longitude: -118.28161606
   elevation: 1182.87
   used: true
-  online: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -3630,7 +3630,7 @@ LWA-125:
   longitude: -118.28160523
   elevation: 1182.77
   used: true
-  online: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -3659,7 +3659,7 @@ LWA-126:
   longitude: -118.28151776
   elevation: 1182.75
   used: true
-  online: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -3688,7 +3688,7 @@ LWA-127:
   longitude: -118.28162302
   elevation: 1182.69
   used: true
-  online: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -3717,7 +3717,7 @@ LWA-128:
   longitude: -118.28165784
   elevation: 1182.67
   used: true
-  online: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -4413,7 +4413,7 @@ LWA-152:
   longitude: -118.28182427
   elevation: 1182.72
   used: true
-  online: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -4442,7 +4442,7 @@ LWA-153:
   longitude: -118.28177201
   elevation: 1182.76
   used: true
-  online: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -5457,7 +5457,7 @@ LWA-188:
   longitude: -118.2818888
   elevation: 1182.7
   used: true
-  online: true
+  online: false
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
