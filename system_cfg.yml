@@ -3456,7 +3456,7 @@ LWA-119:
   longitude: -118.28152568
   elevation: 1182.99
   used: false
-  online: true
+  online: false
   snap2_serial: -1
   snap2_chassis: -1
   snap2_location: -1
@@ -3465,11 +3465,11 @@ LWA-119:
   fmc: -1
   pola_digitizer_channel: -1
   polb_digitizer_channel: -1
-  arx_location: 45
-  arx_serial: 50
-  arx_address: 45
-  pola_arx_channel: 9
-  polb_arx_channel: 10
+  arx_location: -1
+  arx_serial: -1
+  arx_address: -1
+  pola_arx_channel: -1
+  polb_arx_channel: -1
   pola_resistance: 999999
   polb_resistance: 999999
   pola_fee: 159
@@ -3572,7 +3572,7 @@ LWA-123:
   longitude: -118.28162315
   elevation: 1182.65
   used: false
-  online: true
+  online: false
   snap2_serial: -1
   snap2_chassis: -1
   snap2_location: -1
@@ -3581,11 +3581,11 @@ LWA-123:
   fmc: -1
   pola_digitizer_channel: -1
   polb_digitizer_channel: -1
-  arx_location: 45
-  arx_serial: 50
-  arx_address: 45
-  pola_arx_channel: 11
-  polb_arx_channel: 12
+  arx_location: -1
+  arx_serial: -1
+  arx_address: -1
+  pola_arx_channel: -1
+  polb_arx_channel: -1
   pola_resistance: 999999
   polb_resistance: 999999
   pola_fee: 440
@@ -3601,7 +3601,7 @@ LWA-124:
   longitude: -118.28161606
   elevation: 1182.87
   used: true
-  online: false
+  online: true
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -3630,7 +3630,7 @@ LWA-125:
   longitude: -118.28160523
   elevation: 1182.77
   used: true
-  online: false
+  online: true
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -3659,7 +3659,7 @@ LWA-126:
   longitude: -118.28151776
   elevation: 1182.75
   used: true
-  online: false
+  online: true
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -3688,7 +3688,7 @@ LWA-127:
   longitude: -118.28162302
   elevation: 1182.69
   used: true
-  online: false
+  online: true
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -3717,7 +3717,7 @@ LWA-128:
   longitude: -118.28165784
   elevation: 1182.67
   used: true
-  online: false
+  online: true
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -4412,7 +4412,7 @@ LWA-152:
   latitude: 37.23951195
   longitude: -118.28182427
   elevation: 1182.72
-  used: true
+  used: false
   online: false
   snap2_serial: 3
   snap2_chassis: 2
@@ -4427,7 +4427,7 @@ LWA-152:
   arx_address: 32
   pola_arx_channel: 13
   polb_arx_channel: 14
-  pola_resistance: 999999
+  pola_resistance: 46
   polb_resistance: 999999
   pola_fee: 123
   polb_fee: 394
@@ -4442,7 +4442,7 @@ LWA-153:
   longitude: -118.28177201
   elevation: 1182.76
   used: true
-  online: false
+  online: true
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -5457,7 +5457,7 @@ LWA-188:
   longitude: -118.2818888
   elevation: 1182.7
   used: true
-  online: false
+  online: true
   snap2_serial: 3
   snap2_chassis: 2
   snap2_location: 8
@@ -6482,7 +6482,7 @@ LWA-223:
   pola_digitizer_channel: 0
   polb_digitizer_channel: 1
   arx_location: 44
-  arx_serial: 49
+  arx_serial: 26
   arx_address: 44
   pola_arx_channel: 1
   polb_arx_channel: 2
@@ -7004,7 +7004,7 @@ LWA-241:
   pola_digitizer_channel: 2
   polb_digitizer_channel: 3
   arx_location: 44
-  arx_serial: 49
+  arx_serial: 26
   arx_address: 44
   pola_arx_channel: 3
   polb_arx_channel: 4
@@ -7033,7 +7033,7 @@ LWA-242:
   pola_digitizer_channel: 4
   polb_digitizer_channel: 5
   arx_location: 44
-  arx_serial: 49
+  arx_serial: 26
   arx_address: 44
   pola_arx_channel: 5
   polb_arx_channel: 6
@@ -7091,7 +7091,7 @@ LWA-244:
   pola_digitizer_channel: 6
   polb_digitizer_channel: 7
   arx_location: 44
-  arx_serial: 49
+  arx_serial: 26
   arx_address: 44
   pola_arx_channel: 7
   polb_arx_channel: 8
@@ -7120,7 +7120,7 @@ LWA-245:
   pola_digitizer_channel: 8
   polb_digitizer_channel: 9
   arx_location: 44
-  arx_serial: 49
+  arx_serial: 26
   arx_address: 44
   pola_arx_channel: 9
   polb_arx_channel: 10
@@ -7149,7 +7149,7 @@ LWA-246:
   pola_digitizer_channel: 10
   polb_digitizer_channel: 11
   arx_location: 44
-  arx_serial: 49
+  arx_serial: 26
   arx_address: 44
   pola_arx_channel: 11
   polb_arx_channel: 12
@@ -7207,7 +7207,7 @@ LWA-248:
   pola_digitizer_channel: 12
   polb_digitizer_channel: 13
   arx_location: 44
-  arx_serial: 49
+  arx_serial: 26
   arx_address: 44
   pola_arx_channel: 13
   polb_arx_channel: 14
@@ -7236,7 +7236,7 @@ LWA-249:
   pola_digitizer_channel: 14
   polb_digitizer_channel: 15
   arx_location: 44
-  arx_serial: 49
+  arx_serial: 26
   arx_address: 44
   pola_arx_channel: 15
   polb_arx_channel: 16
@@ -8384,7 +8384,7 @@ LWA-289:
   antnumber: 289
   latitude: 37.23400256119999
   longitude: -118.2884194752
-  elevation: 999999
+  elevation: 1180.17
   used: true
   online: false
   snap2_serial: 6
@@ -8411,9 +8411,9 @@ LWA-289:
 LWA-290:
   antname: LWA-290
   antnumber: 290
-  latitude: 37.23581697619999
-  longitude: -118.2894946412
-  elevation: 999999
+  latitude: 37.2358153984796
+  longitude: -118.289507671162
+  elevation: 1178.93
   used: true
   online: false
   snap2_serial: 1
@@ -8469,9 +8469,9 @@ LWA-291:
 LWA-292:
   antname: LWA-292
   antnumber: 292
-  latitude: 37.240745878199995
-  longitude: -118.2919627692
-  elevation: 999999
+  latitude: 37.24074695868
+  longitude: -118.291968977496
+  elevation: 1179.14
   used: true
   online: false
   snap2_serial: 12
@@ -8616,7 +8616,7 @@ LWA-297:
   antnumber: 297
   latitude: 37.2495892562
   longitude: -118.2808874832
-  elevation: 999999
+  elevation: 1186.02
   used: true
   online: false
   snap2_serial: 2
@@ -8645,7 +8645,7 @@ LWA-298:
   antnumber: 298
   latitude: 37.249584330199994
   longitude: -118.2777622692
-  elevation: 999999
+  elevation: 1185.65
   used: true
   online: false
   snap2_serial: 12
@@ -8964,7 +8964,7 @@ LWA-309:
   antnumber: 309
   latitude: 37.24595792619999
   longitude: -118.2818410692
-  elevation: 999999
+  elevation: 1184.47
   used: true
   online: false
   snap2_serial: 13
@@ -9080,7 +9080,7 @@ LWA-313:
   antnumber: 313
   latitude: 37.243406711199995
   longitude: -118.2787975882
-  elevation: 999999
+  elevation: 1183.44
   used: true
   online: false
   snap2_serial: 13
@@ -9138,7 +9138,7 @@ LWA-315:
   antnumber: 315
   latitude: 37.237484124199995
   longitude: -118.2925046692
-  elevation: 999999
+  elevation: 1178.23
   used: true
   online: false
   snap2_serial: 4
@@ -9167,7 +9167,7 @@ LWA-316:
   antnumber: 316
   latitude: 37.23848336019999
   longitude: -118.2929475692
-  elevation: 999999
+  elevation: 1178.46
   used: true
   online: false
   snap2_serial: 5
@@ -9428,7 +9428,7 @@ LWA-325:
   antnumber: 325
   latitude: 37.248110954199994
   longitude: -118.2769858692
-  elevation: 999999
+  elevation: 1185.1
   used: true
   online: false
   snap2_serial: 5
@@ -9457,7 +9457,7 @@ LWA-326:
   antnumber: 326
   latitude: 37.24636348319999
   longitude: -118.2783497692
-  elevation: 999999
+  elevation: 1184.46
   used: true
   online: false
   snap2_serial: 3
@@ -9544,7 +9544,7 @@ LWA-329:
   antnumber: 329
   latitude: 37.247623673199996
   longitude: -118.2788334692
-  elevation: 999999
+  elevation: 1184.67
   used: true
   online: false
   snap2_serial: 1
@@ -9573,7 +9573,7 @@ LWA-330:
   antnumber: 330
   latitude: 37.246829229199996
   longitude: -118.2801464692
-  elevation: 999999
+  elevation: 1185.03
   used: true
   online: false
   snap2_serial: 13
@@ -9602,7 +9602,7 @@ LWA-331:
   antnumber: 331
   latitude: 37.247980360199996
   longitude: -118.2816252262
-  elevation: 999999
+  elevation: 1185.03
   used: true
   online: false
   snap2_serial: 7
@@ -9660,7 +9660,7 @@ LWA-333:
   antnumber: 333
   latitude: 37.241169031199995
   longitude: -118.2772422032
-  elevation: 999999
+  elevation: 1183.22
   used: true
   online: false
   snap2_serial: 3
@@ -9689,7 +9689,7 @@ LWA-334:
   antnumber: 334
   latitude: 37.24338012519999
   longitude: -118.2776276642
-  elevation: 999999
+  elevation: 1183.66
   used: true
   online: false
   snap2_serial: 5
@@ -9718,7 +9718,7 @@ LWA-335:
   antnumber: 335
   latitude: 37.238956855199994
   longitude: -118.2919899692
-  elevation: 999999
+  elevation: 1178.79
   used: true
   online: false
   snap2_serial: 12
@@ -9892,7 +9892,7 @@ LWA-341:
   antnumber: 341
   latitude: 37.233071423199995
   longitude: -118.2940874672
-  elevation: 999999
+  elevation: 1177.75
   used: true
   online: false
   snap2_serial: 13
@@ -9921,7 +9921,7 @@ LWA-342:
   antnumber: 342
   latitude: 37.236797661199994
   longitude: -118.2912935032
-  elevation: 999999
+  elevation: 1179.12
   used: true
   online: false
   snap2_serial: 2
@@ -10066,7 +10066,7 @@ LWA-347:
   antnumber: 347
   latitude: 37.2365687162
   longitude: -118.2945735412
-  elevation: 999999
+  elevation: 1177.69
   used: true
   online: false
   snap2_serial: 3
@@ -10095,7 +10095,7 @@ LWA-348:
   antnumber: 348
   latitude: 37.23891907219999
   longitude: -118.2954386342
-  elevation: 999999
+  elevation: 1178.31
   used: true
   online: false
   snap2_serial: 7
