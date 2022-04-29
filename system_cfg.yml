@@ -1136,7 +1136,7 @@ LWA-039:
   longitude: -118.28126795
   elevation: 1182.76
   used: false
-  online: true
+  online: false
   snap2_serial: -1
   snap2_chassis: -1
   snap2_location: -1
@@ -1152,8 +1152,8 @@ LWA-039:
   polb_arx_channel: 8
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: 407
-  polb_fee: 204
+  pola_fee: -1
+  polb_fee: -1
   pola_fpga_num: -1
   polb_fpga_num: -1
   corr_num: -1
@@ -3472,8 +3472,8 @@ LWA-119:
   polb_arx_channel: -1
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: 159
-  polb_fee: 372
+  pola_fee: -1
+  polb_fee: -1
   pola_fpga_num: -1
   polb_fpga_num: -1
   corr_num: -1
@@ -3588,8 +3588,8 @@ LWA-123:
   polb_arx_channel: -1
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: 440
-  polb_fee: 200
+  pola_fee: -1
+  polb_fee: -1
   pola_fpga_num: -1
   polb_fpga_num: -1
   corr_num: -1
@@ -4427,10 +4427,10 @@ LWA-152:
   arx_address: 32
   pola_arx_channel: 13
   polb_arx_channel: 14
-  pola_resistance: 46
+  pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: 123
-  polb_fee: 394
+  pola_fee: -1
+  polb_fee: -1
   pola_fpga_num: 14
   polb_fpga_num: 15
   corr_num: 231
@@ -5051,7 +5051,7 @@ LWA-174:
   longitude: -118.28188567
   elevation: 1182.64
   used: false
-  online: true
+  online: false
   snap2_serial: -1
   snap2_chassis: -1
   snap2_location: -1
@@ -5067,8 +5067,8 @@ LWA-174:
   polb_arx_channel: 14
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: 155
-  polb_fee: 376
+  pola_fee: -1
+  polb_fee: -1
   pola_fpga_num: -1
   polb_fpga_num: -1
   corr_num: -1
@@ -8096,7 +8096,7 @@ LWA-279:
   longitude: -118.27768357
   elevation: 1183.98
   used: true
-  online: false
+  online: true
   snap2_serial: 8
   snap2_chassis: 2
   snap2_location: 7
@@ -8328,7 +8328,7 @@ LWA-287:
   longitude: -118.29293207
   elevation: 1179.9
   used: true
-  online: false
+  online: true
   snap2_serial: 8
   snap2_chassis: 2
   snap2_location: 7
@@ -8344,8 +8344,8 @@ LWA-287:
   polb_arx_channel: 14
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 150
+  polb_fee: 398
   pola_fpga_num: 62
   polb_fpga_num: 63
   corr_num: 223
@@ -9109,7 +9109,7 @@ LWA-314:
   antnumber: 314
   latitude: 37.243258059199995
   longitude: -118.2803485692
-  elevation: 999999
+  elevation: 1184.08
   used: true
   online: false
   snap2_serial: 13
@@ -10026,8 +10026,8 @@ LWA-345:
   polb_arx_channel: 8
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 101
+  polb_fee: 185
   pola_fpga_num: 56
   polb_fpga_num: 57
   corr_num: 252
@@ -10300,7 +10300,7 @@ LWA-355:
   longitude: -118.2822477262
   elevation: 1181.72
   used: true
-  online: false
+  online: true
   snap2_serial: 8
   snap2_chassis: 2
   snap2_location: 7
@@ -10461,8 +10461,8 @@ LWA-360:
   polb_arx_channel: 14
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 634
+  polb_fee: 677
   pola_fpga_num: 60
   polb_fpga_num: 61
   corr_num: 62
@@ -10519,8 +10519,8 @@ LWA-362:
   polb_arx_channel: 16
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 420
+  polb_fee: 179
   pola_fpga_num: 60
   polb_fpga_num: 61
   corr_num: 30
@@ -10548,8 +10548,8 @@ LWA-363:
   polb_arx_channel: 10
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 155
+  polb_fee: 376
   pola_fpga_num: 60
   polb_fpga_num: 61
   corr_num: 94
@@ -10577,8 +10577,8 @@ LWA-364:
   polb_arx_channel: 4
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 159
+  polb_fee: 372
   pola_fpga_num: 62
   polb_fpga_num: 63
   corr_num: 127
