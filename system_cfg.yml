@@ -2527,8 +2527,8 @@ LWA-087:
   latitude: 37.23943585
   longitude: -118.28145393
   elevation: 1182.45
-  used: true
-  online: true
+  used: false
+  online: false
   snap2_serial: 5
   snap2_chassis: 1
   snap2_location: 5
@@ -5108,8 +5108,8 @@ LWA-176:
   latitude: 37.23973347
   longitude: -118.28197898
   elevation: 1182.87
-  used: true
-  online: true
+  used: false
+  online: false
   snap2_serial: 2
   snap2_chassis: 2
   snap2_location: 10
@@ -5125,8 +5125,8 @@ LWA-176:
   polb_arx_channel: 6
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: 496
-  polb_fee: 634
+  pola_fee: -1
+  polb_fee: -1
   pola_fpga_num: 8
   polb_fpga_num: 9
   corr_num: 292
@@ -7584,7 +7584,7 @@ LWA-261:
   pola_digitizer_channel: 22
   polb_digitizer_channel: 23
   arx_location: 14
-  arx_serial: -1
+  arx_serial: 4107
   arx_address: 14
   pola_arx_channel: 1
   polb_arx_channel: 2
@@ -7613,7 +7613,7 @@ LWA-262:
   pola_digitizer_channel: 20
   polb_digitizer_channel: 21
   arx_location: 9
-  arx_serial: -1
+  arx_serial: 4108
   arx_address: 9
   pola_arx_channel: 11
   polb_arx_channel: 12
@@ -7671,7 +7671,7 @@ LWA-264:
   pola_digitizer_channel: 24
   polb_digitizer_channel: 25
   arx_location: 14
-  arx_serial: -1
+  arx_serial: 4107
   arx_address: 14
   pola_arx_channel: 3
   polb_arx_channel: 4
@@ -7990,7 +7990,7 @@ LWA-275:
   pola_digitizer_channel: 22
   polb_digitizer_channel: 23
   arx_location: 9
-  arx_serial: -1
+  arx_serial: 4108
   arx_address: 9
   pola_arx_channel: 1
   polb_arx_channel: 2
@@ -8106,7 +8106,7 @@ LWA-279:
   pola_digitizer_channel: 26
   polb_digitizer_channel: 27
   arx_location: 11
-  arx_serial: -1
+  arx_serial: 4109
   arx_address: 11
   pola_arx_channel: 11
   polb_arx_channel: 12
@@ -8309,7 +8309,7 @@ LWA-286:
   pola_digitizer_channel: 24
   polb_digitizer_channel: 25
   arx_location: 9
-  arx_serial: -1
+  arx_serial: 4108
   arx_address: 9
   pola_arx_channel: 3
   polb_arx_channel: 4
@@ -8338,7 +8338,7 @@ LWA-287:
   pola_digitizer_channel: 28
   polb_digitizer_channel: 29
   arx_location: 11
-  arx_serial: -1
+  arx_serial: 4109
   arx_address: 11
   pola_arx_channel: 13
   polb_arx_channel: 14
@@ -8396,7 +8396,7 @@ LWA-289:
   pola_digitizer_channel: 24
   polb_digitizer_channel: 25
   arx_location: 11
-  arx_serial: -1
+  arx_serial: 4109
   arx_address: 11
   pola_arx_channel: 3
   polb_arx_channel: 4
@@ -8425,7 +8425,7 @@ LWA-290:
   pola_digitizer_channel: 24
   polb_digitizer_channel: 25
   arx_location: 12
-  arx_serial: -1
+  arx_serial: 4110
   arx_address: 12
   pola_arx_channel: 15
   polb_arx_channel: 16
@@ -8512,7 +8512,7 @@ LWA-293:
   pola_digitizer_channel: 26
   polb_digitizer_channel: 27
   arx_location: 13
-  arx_serial: -1
+  arx_serial: 4105
   arx_address: 13
   pola_arx_channel: 1
   polb_arx_channel: 2
@@ -8541,7 +8541,7 @@ LWA-294:
   pola_digitizer_channel: 26
   polb_digitizer_channel: 27
   arx_location: 11
-  arx_serial: -1
+  arx_serial: 4109
   arx_address: 11
   pola_arx_channel: 5
   polb_arx_channel: 6
@@ -8628,7 +8628,7 @@ LWA-297:
   pola_digitizer_channel: 22
   polb_digitizer_channel: 23
   arx_location: 13
-  arx_serial: -1
+  arx_serial: 4105
   arx_address: 13
   pola_arx_channel: 7
   polb_arx_channel: 8
@@ -8686,14 +8686,14 @@ LWA-299:
   pola_digitizer_channel: 28
   polb_digitizer_channel: 29
   arx_location: 11
-  arx_serial: -1
+  arx_serial: 4109
   arx_address: 11
   pola_arx_channel: 7
   polb_arx_channel: 8
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 128
+  polb_fee: 650
   pola_fpga_num: 62
   polb_fpga_num: 63
   corr_num: 191
@@ -8715,7 +8715,7 @@ LWA-300:
   pola_digitizer_channel: 26
   polb_digitizer_channel: 27
   arx_location: 14
-  arx_serial: -1
+  arx_serial: 4107
   arx_address: 14
   pola_arx_channel: 5
   polb_arx_channel: 6
@@ -8773,7 +8773,7 @@ LWA-302:
   pola_digitizer_channel: 26
   polb_digitizer_channel: 27
   arx_location: 9
-  arx_serial: -1
+  arx_serial: 4108
   arx_address: 9
   pola_arx_channel: 5
   polb_arx_channel: 6
@@ -8831,14 +8831,14 @@ LWA-304:
   pola_digitizer_channel: 28
   polb_digitizer_channel: 29
   arx_location: 14
-  arx_serial: -1
+  arx_serial: 4107
   arx_address: 14
   pola_arx_channel: 7
   polb_arx_channel: 8
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 605
+  polb_fee: 662
   pola_fpga_num: 62
   polb_fpga_num: 63
   corr_num: 351
@@ -9150,7 +9150,7 @@ LWA-315:
   pola_digitizer_channel: 30
   polb_digitizer_channel: 31
   arx_location: 14
-  arx_serial: -1
+  arx_serial: 4107
   arx_address: 14
   pola_arx_channel: 9
   polb_arx_channel: 10
@@ -9179,7 +9179,7 @@ LWA-316:
   pola_digitizer_channel: 20
   polb_digitizer_channel: 21
   arx_location: 10
-  arx_serial: -1
+  arx_serial: 4103
   arx_address: 10
   pola_arx_channel: 7
   polb_arx_channel: 8
@@ -9266,7 +9266,7 @@ LWA-319:
   pola_digitizer_channel: 30
   polb_digitizer_channel: 31
   arx_location: 11
-  arx_serial: -1
+  arx_serial: 4109
   arx_address: 11
   pola_arx_channel: 9
   polb_arx_channel: 10
@@ -9353,7 +9353,7 @@ LWA-322:
   pola_digitizer_channel: 20
   polb_digitizer_channel: 21
   arx_location: 12
-  arx_serial: -1
+  arx_serial: 4110
   arx_address: 12
   pola_arx_channel: 1
   polb_arx_channel: 2
@@ -9382,7 +9382,7 @@ LWA-323:
   pola_digitizer_channel: 28
   polb_digitizer_channel: 29
   arx_location: 9
-  arx_serial: -1
+  arx_serial: 4108
   arx_address: 9
   pola_arx_channel: 7
   polb_arx_channel: 8
@@ -9411,7 +9411,7 @@ LWA-324:
   pola_digitizer_channel: 22
   polb_digitizer_channel: 23
   arx_location: 9
-  arx_serial: -1
+  arx_serial: 4108
   arx_address: 9
   pola_arx_channel: 13
   polb_arx_channel: 14
@@ -9440,7 +9440,7 @@ LWA-325:
   pola_digitizer_channel: 22
   polb_digitizer_channel: 23
   arx_location: 10
-  arx_serial: -1
+  arx_serial: 4103
   arx_address: 10
   pola_arx_channel: 9
   polb_arx_channel: 10
@@ -9469,7 +9469,7 @@ LWA-326:
   pola_digitizer_channel: 22
   polb_digitizer_channel: 23
   arx_location: 12
-  arx_serial: -1
+  arx_serial: 4110
   arx_address: 12
   pola_arx_channel: 3
   polb_arx_channel: 4
@@ -9527,7 +9527,7 @@ LWA-328:
   pola_digitizer_channel: 24
   polb_digitizer_channel: 25
   arx_location: 10
-  arx_serial: -1
+  arx_serial: 4103
   arx_address: 10
   pola_arx_channel: 11
   polb_arx_channel: 12
@@ -9556,7 +9556,7 @@ LWA-329:
   pola_digitizer_channel: 28
   polb_digitizer_channel: 29
   arx_location: 13
-  arx_serial: -1
+  arx_serial: 4105
   arx_address: 13
   pola_arx_channel: 3
   polb_arx_channel: 4
@@ -9614,7 +9614,7 @@ LWA-331:
   pola_digitizer_channel: 24
   polb_digitizer_channel: 25
   arx_location: 9
-  arx_serial: -1
+  arx_serial: 4108
   arx_address: 9
   pola_arx_channel: 15
   polb_arx_channel: 16
@@ -9672,7 +9672,7 @@ LWA-333:
   pola_digitizer_channel: 24
   polb_digitizer_channel: 25
   arx_location: 12
-  arx_serial: -1
+  arx_serial: 4110
   arx_address: 12
   pola_arx_channel: 5
   polb_arx_channel: 6
@@ -9701,7 +9701,7 @@ LWA-334:
   pola_digitizer_channel: 26
   polb_digitizer_channel: 27
   arx_location: 10
-  arx_serial: -1
+  arx_serial: 4103
   arx_address: 10
   pola_arx_channel: 13
   polb_arx_channel: 14
@@ -9933,7 +9933,7 @@ LWA-342:
   pola_digitizer_channel: 24
   polb_digitizer_channel: 25
   arx_location: 13
-  arx_serial: -1
+  arx_serial: 4105
   arx_address: 13
   pola_arx_channel: 9
   polb_arx_channel: 10
@@ -10020,7 +10020,7 @@ LWA-345:
   pola_digitizer_channel: 26
   polb_digitizer_channel: 27
   arx_location: 12
-  arx_serial: -1
+  arx_serial: 4110
   arx_address: 12
   pola_arx_channel: 7
   polb_arx_channel: 8
@@ -10049,14 +10049,14 @@ LWA-346:
   pola_digitizer_channel: 26
   polb_digitizer_channel: 27
   arx_location: 13
-  arx_serial: -1
+  arx_serial: 4105
   arx_address: 13
   pola_arx_channel: 11
   polb_arx_channel: 12
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 584
+  polb_fee: 697
   pola_fpga_num: 56
   polb_fpga_num: 57
   corr_num: 316
@@ -10078,7 +10078,7 @@ LWA-347:
   pola_digitizer_channel: 28
   polb_digitizer_channel: 29
   arx_location: 12
-  arx_serial: -1
+  arx_serial: 4110
   arx_address: 12
   pola_arx_channel: 9
   polb_arx_channel: 10
@@ -10107,7 +10107,7 @@ LWA-348:
   pola_digitizer_channel: 26
   polb_digitizer_channel: 27
   arx_location: 10
-  arx_serial: -1
+  arx_serial: 4103
   arx_address: 10
   pola_arx_channel: 1
   polb_arx_channel: 2
@@ -10136,7 +10136,7 @@ LWA-349:
   pola_digitizer_channel: 22
   polb_digitizer_channel: 23
   arx_location: 12
-  arx_serial: -1
+  arx_serial: 4110
   arx_address: 12
   pola_arx_channel: 13
   polb_arx_channel: 14
@@ -10165,7 +10165,7 @@ LWA-350:
   pola_digitizer_channel: 28
   polb_digitizer_channel: 29
   arx_location: 13
-  arx_serial: -1
+  arx_serial: 4105
   arx_address: 13
   pola_arx_channel: 13
   polb_arx_channel: 14
@@ -10310,7 +10310,7 @@ LWA-355:
   pola_digitizer_channel: 30
   polb_digitizer_channel: 31
   arx_location: 11
-  arx_serial: -1
+  arx_serial: 4109
   arx_address: 11
   pola_arx_channel: 15
   polb_arx_channel: 16
@@ -10339,7 +10339,7 @@ LWA-356:
   pola_digitizer_channel: 30
   polb_digitizer_channel: 31
   arx_location: 13
-  arx_serial: -1
+  arx_serial: 4105
   arx_address: 13
   pola_arx_channel: 15
   polb_arx_channel: 16
@@ -10368,7 +10368,7 @@ LWA-357:
   pola_digitizer_channel: 30
   polb_digitizer_channel: 31
   arx_location: 13
-  arx_serial: -1
+  arx_serial: 4105
   arx_address: 13
   pola_arx_channel: 5
   polb_arx_channel: 6
@@ -10397,7 +10397,7 @@ LWA-358:
   pola_digitizer_channel: 28
   polb_digitizer_channel: 29
   arx_location: 10
-  arx_serial: -1
+  arx_serial: 4103
   arx_address: 10
   pola_arx_channel: 15
   polb_arx_channel: 16
@@ -10426,7 +10426,7 @@ LWA-359:
   pola_digitizer_channel: 30
   polb_digitizer_channel: 31
   arx_location: 12
-  arx_serial: -1
+  arx_serial: 4110
   arx_address: 12
   pola_arx_channel: 11
   polb_arx_channel: 12
@@ -10484,14 +10484,14 @@ LWA-361:
   pola_digitizer_channel: 30
   polb_digitizer_channel: 31
   arx_location: 11
-  arx_serial: -1
+  arx_serial: 4109
   arx_address: 11
   pola_arx_channel: 1
   polb_arx_channel: 2
   pola_resistance: 999999
   polb_resistance: 999999
-  pola_fee: -1
-  polb_fee: -1
+  pola_fee: 140
+  polb_fee: 383
   pola_fpga_num: 60
   polb_fpga_num: 61
   corr_num: 158
@@ -10542,7 +10542,7 @@ LWA-363:
   pola_digitizer_channel: 30
   polb_digitizer_channel: 31
   arx_location: 9
-  arx_serial: -1
+  arx_serial: 4108
   arx_address: 9
   pola_arx_channel: 9
   polb_arx_channel: 10
@@ -10571,7 +10571,7 @@ LWA-364:
   pola_digitizer_channel: 28
   polb_digitizer_channel: 29
   arx_location: 10
-  arx_serial: -1
+  arx_serial: 4103
   arx_address: 10
   pola_arx_channel: 3
   polb_arx_channel: 4
@@ -10600,7 +10600,7 @@ LWA-365:
   pola_digitizer_channel: 30
   polb_digitizer_channel: 31
   arx_location: 10
-  arx_serial: -1
+  arx_serial: 4103
   arx_address: 10
   pola_arx_channel: 5
   polb_arx_channel: 6
