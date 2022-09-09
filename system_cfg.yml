@@ -9517,7 +9517,7 @@ LWA-328:
   longitude: -118.2867668022
   elevation: 1185.47
   used: true
-  online: false
+  online: true
   snap2_serial: 5
   snap2_chassis: 1
   snap2_location: 5
@@ -9948,8 +9948,8 @@ LWA-342:
 LWA-343:
   antname: LWA-343
   antnumber: 343
-  latitude: 37.24187100219999
-  longitude: -118.2865220692
+  latitude: 37.2419375360646
+  longitude: -118.286598200156
   elevation: 999999
   used: true
   online: false
