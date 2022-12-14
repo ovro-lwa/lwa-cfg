@@ -1,0 +1,17 @@
+# YAML file to map filename to their respective .yml filename as well as
+# .yml filename to their distributed store key name.
+#
+# Files needing conversion to yml
+LWA-352 Antenna Status & System Configuration.xlsx:
+  yml_fn: system_cfg.yml
+  sheet: "LWA config"
+Buried coaxial cable lengths.xlsx:
+  yml_fn: buried_cable_length_cfg.yml
+  sheet: "BuriedCableLength"
+#
+# yml files and their associated distributed key
+system_cfg.yml:
+  key: /cfg/sys
+buried_cable_length_cfg.yml:
+  key: /cfg/buried_cable_length
+
