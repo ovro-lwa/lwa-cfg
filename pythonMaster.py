@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 # pythonMaster.py is called by the lwacfg service to pull down, if necessary,
 # any other known config files, convert them to YAML format, commit each one
@@ -74,4 +74,4 @@ if __name__ == '__main__':
     parser.set_defaults(upload=False)
     args = parser.parse_args()
 
-    main_entry(upload)
+    main_entry(args.upload)
