@@ -2,10 +2,14 @@
 # .yml filename to their distributed store key name.
 #
 # Files needing conversion to yml
+#
+# processed by service
 LWA-352 Antenna Status & System Configuration.xlsx:
   yml_fn: system_cfg.yml
   sheet: "LWA config"
   key: /cfg/system
+#
+# processed by service
 Buried coaxial cable lengths.xlsx:
   yml_fn: buried_cable_length_cfg.yml
   sheet: "BuriedCableLength"
@@ -14,6 +18,7 @@ Buried coaxial cable lengths.xlsx:
 # Direct YAML files and their associated distributed key example.
 # These files will be read in and pushed. Filenames MUST end in .yml
 #
+# All .yml files are processed by the service.
 #test_cfg.yml:
 #  key: /cfg/test
 
