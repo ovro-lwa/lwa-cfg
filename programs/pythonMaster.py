@@ -2,19 +2,16 @@
 
 # pythonMaster.py is called by the lwacfg service to pull down, if necessary,
 # any other known config files, convert them to YAML format, commit each one
-# to the repo and push to the distributed map. The service will do a one time
+# to the repo and push to the distributed map. pythonMaster.py is specifed
+# in the file2keyMapping.yml file in this repo so can have any unique name.
+# The service will do a one time
 # push back to origin. The driving config file can be added to the repo
-# manually if pulling the origin can't be done. The service does a pull
+# manually if pulling can't be done. The service does a pull
 # when launched so new code and config files can be added to the remote
-# prior to commanding the service to either 'upload' or 'reload'.
+# prior to commanding the service to 'reload'.
 #
-# This script should be written such that it can be executed from anyway
+# This script should be written such that it can be executed from anywhere
 # on the host.
-#
-# The commaned 'upload' is meant to inform the conversion code to perform
-# a download of the driving config file prior to conversion. 'reload' is
-# meant to just re-parse the existing driving config file. Of course, when
-# manually added, both perform the same.
 #
 # The code should return a non-zero error code on errors and any pertinent
 # information.
@@ -68,7 +65,7 @@ def main_entry(upload:bool = False):
 
 if __name__ == '__main__':
 
-    
+    # Mandatory argument.
     parser = argparse.ArgumentParser(description="Args")
     parser.add_argument('--upload', dest='upload', action='store_true')
     parser.set_defaults(upload=False)
