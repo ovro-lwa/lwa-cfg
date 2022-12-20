@@ -37,14 +37,18 @@ to hold the conversion to YAML and the distributed map key to write to. Other
 key,values can be added if needed to the file2mapping.yml file
     """
 
-    for key, val_dict in file_map.items():
-        # process
+    if args.cfile is not None:
+        # process specified file
         pass
+    else:
+        for key, val_dict in file_map.items():
+            # process
+            pass
 
     # no errors
     return "", SUCCESS
 
-def main_entry(upload:bool = False):
+def main_entry(args):
     """main_entry is the driver for all processing.
     """
     
@@ -52,10 +56,10 @@ def main_entry(upload:bool = False):
     # the output YAML file and the distributed map key to push to.
     file_mapping = read_mapping_file()
 
-    if (upload):
+    if (args.upload):
         get_config_files()
 
-    errmsg, errcode = process_config_files(file_mapping)
+    errmsg, errcode = process_config_files(args.file, file_mapping)
 
     if errcode != SUCCESS:
         print(errmsg)
@@ -65,10 +69,12 @@ def main_entry(upload:bool = False):
 
 if __name__ == '__main__':
 
-    # Mandatory argument.
+    # Mandatory arguments.
     parser = argparse.ArgumentParser(description="Args")
     parser.add_argument('--upload', dest='upload', action='store_true')
+    parser.add_argument('--cfile', type=string, help='config filename to convert')
     parser.set_defaults(upload=False)
+    parser.set_defaults(cfile=None)
     args = parser.parse_args()
 
-    main_entry(args.upload)
+    main_entry(args)

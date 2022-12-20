@@ -18,7 +18,7 @@ Buried coaxial cable lengths.xlsx:
   key: /cfg/buried_cable_length
   program: service
 #
-# Example File to be converted by external code
+# Example File to be converted by external code.
 #
 # A_settings.ext:
 #    yml_fn: A_settings.yml
