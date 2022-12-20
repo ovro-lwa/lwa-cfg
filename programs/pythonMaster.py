@@ -2,16 +2,19 @@
 
 # pythonMaster.py is called by the lwacfg service to pull down, if necessary,
 # any other known config files, convert them to YAML format, commit each one
-# to the repo and push to the distributed map. pythonMaster.py is specifed
-# in the file2keyMapping.yml file in this repo so can have any unique name.
-# The service will do a one time
+# to the repo and push to the distributed map. The service will do a one time
 # push back to origin. The driving config file can be added to the repo
-# manually if pulling can't be done. The service does a pull
+# manually if pulling the origin can't be done. The service does a pull
 # when launched so new code and config files can be added to the remote
-# prior to commanding the service to 'reload'.
+# prior to commanding the service to either 'upload' or 'reload'.
 #
-# This script should be written such that it can be executed from anywhere
+# This script should be written such that it can be executed from anyway
 # on the host.
+#
+# The commaned 'upload' is meant to inform the conversion code to perform
+# a download of the driving config file prior to conversion. 'reload' is
+# meant to just re-parse the existing driving config file. Of course, when
+# manually added, both perform the same.
 #
 # The code should return a non-zero error code on errors and any pertinent
 # information.
@@ -37,18 +40,14 @@ to hold the conversion to YAML and the distributed map key to write to. Other
 key,values can be added if needed to the file2mapping.yml file
     """
 
-    if args.cfile is not None:
-        # process specified file
+    for key, val_dict in file_map.items():
+        # process
         pass
-    else:
-        for key, val_dict in file_map.items():
-            # process
-            pass
 
     # no errors
     return "", SUCCESS
 
-def main_entry(args):
+def main_entry(upload:bool = False):
     """main_entry is the driver for all processing.
     """
     
@@ -56,10 +55,10 @@ def main_entry(args):
     # the output YAML file and the distributed map key to push to.
     file_mapping = read_mapping_file()
 
-    if (args.upload):
+    if (upload):
         get_config_files()
 
-    errmsg, errcode = process_config_files(args.file, file_mapping)
+    errmsg, errcode = process_config_files(file_mapping)
 
     if errcode != SUCCESS:
         print(errmsg)
@@ -69,12 +68,10 @@ def main_entry(args):
 
 if __name__ == '__main__':
 
-    # Mandatory arguments.
+    
     parser = argparse.ArgumentParser(description="Args")
     parser.add_argument('--upload', dest='upload', action='store_true')
-    parser.add_argument('--cfile', type=string, help='config filename to convert')
     parser.set_defaults(upload=False)
-    parser.set_defaults(cfile=None)
     args = parser.parse_args()
 
-    main_entry(args)
+    main_entry(args.upload)

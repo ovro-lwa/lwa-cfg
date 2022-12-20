@@ -1,6 +1,5 @@
-# YAML file for specifying config filenames and key,values needed to convert
-# them to their respective .yml filename and distributed map keys.
-# Also can specify .yml filenames to their distributed map key name.
+# YAML file to map filename to their respective .yml filename as well as
+# .yml filename to their distributed store key name.
 #
 # Files needing conversion to yml
 #
@@ -9,25 +8,18 @@ LWA-352 Antenna Status & System Configuration.xlsx:
   yml_fn: system_cfg.yml
   sheet: "LWA config"
   key: /cfg/system
-  program: service
 #
 # processed by service
 Buried coaxial cable lengths.xlsx:
   yml_fn: buried_cable_length_cfg.yml
   sheet: "BuriedCableLength"
   key: /cfg/buried_cable_length
-  program: service
 #
-# Example File to be converted by external code.
+# Direct YAML files and their associated distributed key example.
+# These files will be read in and pushed. Filenames MUST end in .yml
 #
-# A_settings.ext:
-#    yml_fn: A_settings.yml
-#    key: /cfg/a_settings
-#    program: translateAsettings.py
-#    other: some_other_key_value_needed_by_script
-#
-# Additional stand-alone yml files and their associated distributed map key
-# test_cfg.yml:
-#   key: /cfg/test
+# All .yml files are processed by the service.
+#test_cfg.yml:
+#  key: /cfg/test
 
 
