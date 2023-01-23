@@ -16,11 +16,9 @@ contents to the distributed map(etcd). YAML files have the simplest form since
 no conversion is needed. YAML file definitions are handled by the service so
 the only work is to add the YAML file and provide the distributed map key to which it will be written to. See the example in file2keyMapping.yml.
 
-The pythonMaster.py executable script is called by the service for any
-additional config file conversions. The contents can be changed but the
-input and return types must be adhered to. See the comment at the top of
+The pythonMaster.py executable script can be specified in the file2keyMapping.yml file and is called by the service for any additional config file conversions. The name is arbitrary but must reside in the programs dir and be executable. The contents can be changed but the input and return types must be adhered to. See the comment at the top of
 the code. The script should ignore any files it is not resposible for like
 direct pushing of YAML files. 
 
-The service does perform a git pull prior to executing any code so changes will be incorporated using the standard Git workflow. 
+The service performs a git pull prior to executing any code so changes will be incorporated using the standard Git workflow. 
 
