@@ -10,6 +10,7 @@ LWA-352 Antenna Status & System Configuration.xlsx:
   sheet: "LWA config"
   key: /cfg/system
   program: service
+  dockey: /doc/system
 #
 # processed by service
 Buried coaxial cable lengths.xlsx:
@@ -17,6 +18,7 @@ Buried coaxial cable lengths.xlsx:
   sheet: "BuriedCableLength"
   key: /cfg/buried_cable_length
   program: service
+  dockey: /doc/buried_cable_length
 #
 # Example File to be converted by external code.
 #
@@ -29,5 +31,13 @@ Buried coaxial cable lengths.xlsx:
 # Additional stand-alone yml files and their associated distributed map key
 # test_cfg.yml:
 #   key: /cfg/test
-
-
+#
+# An Observing mode definition. The solar_mode.yml takes the form of an array
+# solar.mode:
+#   config:
+#       - yml_fn: arx_solar.yml
+#         key: /cfg/arx
+#       - yml_fn: f_eng_solar.yml
+#         key: /cfg/f_eng
+#       - yml_fn: dr_solar.yml
+#         key: /cfg/dr
