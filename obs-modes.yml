@@ -1,0 +1,183 @@
+# Observing modes
+#solar:
+#  - yml_fn: arx01_solar.yml
+#    key: /cfg/arx/1
+#  - yml_fn: arx02_solar.yml
+#    key: /cfg/arx/2
+#  - yml_fn: arx03_solar.yml
+#    key: /cfg/arx/3
+#  - yml_fn: arx04_solar.yml
+#    key: /cfg/arx/4
+#  - yml_fn: arx05_solar.yml
+#    key: /cfg/arx/5
+#  - yml_fn: arx06_solar.yml
+#    key: /cfg/arx/6
+#  - yml_fn: arx07_solar.yml
+#    key: /cfg/arx/7
+#  - yml_fn: arx08_solar.yml
+#    key: /cfg/arx/8
+#  - yml_fn: arx09_solar.yml
+#    key: /cfg/arx/9
+#  - yml_fn: arx10_solar.yml
+#    key: /cfg/arx/10
+#  - yml_fn: arx11_solar.yml
+#    key: /cfg/arx/11
+#  - yml_fn: arx12_solar.yml
+#    key: /cfg/arx/12
+#  - yml_fn: arx13_solar.yml
+#    key: /cfg/arx/13
+#  - yml_fn: arx14_solar.yml
+#    key: /cfg/arx/14
+#  - yml_fn: arx15_solar.yml
+#    key: /cfg/arx/15
+#  - yml_fn: arx16_solar.yml
+#    key: /cfg/arx/16
+#  - yml_fn: arx17_solar.yml
+#    key: /cfg/arx/17
+#  - yml_fn: arx18_solar.yml
+#    key: /cfg/arx/18
+#  - yml_fn: arx19_solar.yml
+#    key: /cfg/arx/19
+#  - yml_fn: arx20_solar.yml
+#    key: /cfg/arx/20
+#  - yml_fn: arx21_solar.yml
+#    key: /cfg/arx/21
+#  - yml_fn: arx22_solar.yml
+#    key: /cfg/arx/22
+#  - yml_fn: arx23_solar.yml
+#    key: /cfg/arx/23
+#  - yml_fn: arx24_solar.yml
+#    key: /cfg/arx/24
+#  - yml_fn: arx25_solar.yml
+#    key: /cfg/arx/25
+#  - yml_fn: arx26_solar.yml
+#    key: /cfg/arx/26
+#  - yml_fn: arx27_solar.yml
+#    key: /cfg/arx/27
+#  - yml_fn: arx28_solar.yml
+#    key: /cfg/arx/28
+#  - yml_fn: arx29_solar.yml
+#    key: /cfg/arx/29
+#  - yml_fn: arx30_solar.yml
+#    key: /cfg/arx/30
+#  - yml_fn: arx31_solar.yml
+#    key: /cfg/arx/31
+#  - yml_fn: arx32_solar.yml
+#    key: /cfg/arx/32
+#  - yml_fn: arx33_solar.yml
+#    key: /cfg/arx/33
+#  - yml_fn: arx34_solar.yml
+#    key: /cfg/arx/34
+#  - yml_fn: arx35_solar.yml
+#    key: /cfg/arx/35
+#  - yml_fn: arx36_solar.yml
+#    key: /cfg/arx/36
+#  - yml_fn: arx37_solar.yml
+#    key: /cfg/arx/37
+#  - yml_fn: arx38_solar.yml
+#    key: /cfg/arx/38
+#  - yml_fn: arx39_solar.yml
+#    key: /cfg/arx/39
+#  - yml_fn: arx40_solar.yml
+#    key: /cfg/arx/40
+#  - yml_fn: arx41_solar.yml
+#    key: /cfg/arx/41
+#  - yml_fn: arx42_solar.yml
+#    key: /cfg/arx/42
+#  - yml_fn: arx43_solar.yml
+#    key: /cfg/arx/43
+#  - yml_fn: arx44_solar.yml
+#    key: /cfg/arx/44
+#  - yml_fn: arx45_solar.yml
+#    key: /cfg/arx/45
+#optimal:
+#  - yml_fn: arx01_optimal.yml
+#    key: /cfg/arx/1
+#  - yml_fn: arx02_optimal.yml
+#    key: /cfg/arx/2
+#  - yml_fn: arx03_optimal.yml
+#    key: /cfg/arx/3
+#  - yml_fn: arx04_optimal.yml
+#    key: /cfg/arx/4
+#  - yml_fn: arx05_optimal.yml
+#    key: /cfg/arx/5
+#  - yml_fn: arx06_optimal.yml
+#    key: /cfg/arx/6
+#  - yml_fn: arx07_optimal.yml
+#    key: /cfg/arx/7
+#  - yml_fn: arx08_optimal.yml
+#    key: /cfg/arx/8
+#  - yml_fn: arx09_optimal.yml
+#    key: /cfg/arx/9
+#  - yml_fn: arx10_optimal.yml
+#    key: /cfg/arx/10
+#  - yml_fn: arx11_optimal.yml
+#    key: /cfg/arx/11
+#  - yml_fn: arx12_optimal.yml
+#    key: /cfg/arx/12
+#  - yml_fn: arx13_optimal.yml
+#    key: /cfg/arx/13
+#  - yml_fn: arx14_optimal.yml
+#    key: /cfg/arx/14
+#  - yml_fn: arx15_optimal.yml
+#    key: /cfg/arx/15
+#  - yml_fn: arx16_optimal.yml
+#    key: /cfg/arx/16
+#  - yml_fn: arx17_optimal.yml
+#    key: /cfg/arx/17
+#  - yml_fn: arx18_optimal.yml
+#    key: /cfg/arx/18
+#  - yml_fn: arx19_optimal.yml
+#    key: /cfg/arx/19
+#  - yml_fn: arx20_optimal.yml
+#    key: /cfg/arx/20
+#  - yml_fn: arx21_optimal.yml
+#    key: /cfg/arx/21
+#  - yml_fn: arx22_optimal.yml
+#    key: /cfg/arx/22
+#  - yml_fn: arx23_optimal.yml
+#    key: /cfg/arx/23
+#  - yml_fn: arx24_optimal.yml
+#    key: /cfg/arx/24
+#  - yml_fn: arx25_optimal.yml
+#    key: /cfg/arx/25
+#  - yml_fn: arx26_optimal.yml
+#    key: /cfg/arx/26
+#  - yml_fn: arx27_optimal.yml
+#    key: /cfg/arx/27
+#  - yml_fn: arx28_optimal.yml
+#    key: /cfg/arx/28
+#  - yml_fn: arx29_optimal.yml
+#    key: /cfg/arx/29
+#  - yml_fn: arx30_optimal.yml
+#    key: /cfg/arx/30
+#  - yml_fn: arx31_optimal.yml
+#    key: /cfg/arx/31
+#  - yml_fn: arx32_optimal.yml
+#    key: /cfg/arx/32
+#  - yml_fn: arx33_optimal.yml
+#    key: /cfg/arx/33
+#  - yml_fn: arx34_optimal.yml
+#    key: /cfg/arx/34
+#  - yml_fn: arx35_optimal.yml
+#    key: /cfg/arx/35
+#  - yml_fn: arx36_optimal.yml
+#    key: /cfg/arx/36
+#  - yml_fn: arx37_optimal.yml
+#    key: /cfg/arx/37
+#  - yml_fn: arx38_optimal.yml
+#    key: /cfg/arx/38
+#  - yml_fn: arx39_optimal.yml
+#    key: /cfg/arx/39
+#  - yml_fn: arx40_optimal.yml
+#    key: /cfg/arx/40
+#  - yml_fn: arx41_optimal.yml
+#    key: /cfg/arx/41
+#  - yml_fn: arx42_optimal.yml
+#    key: /cfg/arx/42
+#  - yml_fn: arx43_optimal.yml
+#    key: /cfg/arx/43
+#  - yml_fn: arx44_optimal.yml
+#    key: /cfg/arx/44
+#  - yml_fn: arx45_optimal.yml
+#    key: /cfg/arx/45
