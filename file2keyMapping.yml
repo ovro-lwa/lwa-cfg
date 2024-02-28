@@ -1,7 +1,7 @@
 # YAML file to map filename to their respective .yml filename as well as
 # .yml filename to their distributed store key name.
 #
-# Files needing conversion to yml
+# Specify Files needing conversion to yml
 #
 # processed by service
 LWA-352 Antenna Status & System Configuration.xlsx:
