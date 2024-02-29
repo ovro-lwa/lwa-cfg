@@ -4284,7 +4284,7 @@ LWA-148:
     polb_arx_channel: 8
     pola_resistance: 999999
     polb_resistance: 999999
-    pola_fee: 412
+    pola_fee: 594
     polb_fee: 629
     pola_fpga_num: 50
     polb_fpga_num: 51
@@ -7389,9 +7389,9 @@ LWA-255:
     polb_resistance: 999999
     pola_fee: 539
     polb_fee: 1655
-    pola_fpga_num: 1
+    pola_fpga_num: 2
     polb_fpga_num: 3
-    corr_num: -1
+    corr_num: 33
     notes: ""
 LWA-256:
     antname: LWA-256
@@ -10582,33 +10582,4 @@ LWA-365:
     pola_fpga_num: 60
     polb_fpga_num: 61
     corr_num: 126
-    notes: ""
-LWA-366:
-    antname: LWA-366
-    antnumber: 366
-    latitude: 37.232092
-    longitude: -118.295584
-    elevation: 1177.8
-    used: false
-    online: false
-    snap2_serial: -1
-    snap2_chassis: -1
-    snap2_location: -1
-    snap2_hostname: ""
-    snap2_mac: ""
-    fmc: -1
-    pola_digitizer_channel: -1
-    polb_digitizer_channel: -1
-    arx_location: -1
-    arx_serial: -1
-    arx_address: -1
-    pola_arx_channel: -1
-    polb_arx_channel: -1
-    pola_resistance: 999999
-    polb_resistance: 999999
-    pola_fee: 269
-    polb_fee: 1372
-    pola_fpga_num: -1
-    polb_fpga_num: -1
-    corr_num: -1
     notes: ""
